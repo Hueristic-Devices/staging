@@ -93,6 +93,72 @@ No chemistry expertise needed.
     <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
 </tr>
+ <tr>
+    <td>Sulphate</td>
+    <td>0-40ppm</td>
+    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
+</tr>
+ <tr>
+    <td>Arsenic</td>
+    <td>0-0.5ppm</td>
+    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
+</tr>
+ <tr>
+    <td>Residual chlorine</td>
+    <td>0-3ppm</td>
+    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
+</tr>
+ <tr>
+    <td>Potassium</td>
+    <td>0-30ppm</td>
+    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
+</tr>
+ <tr>
+    <td>Phosphate</td>
+    <td>0-2ppm</td>
+    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
+</tr>
+ <tr>
+    <td>Total iron</td>
+    <td>0-2ppm</td>
+    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
+</tr>
+ <tr>
+    <td>Calcium and magnesium</td>
+    <td> - </td>
+    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
+</tr>
+ <tr>
+    <td>Carbonate and bicarbonate</td>
+    <td> - </td>
+    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
+</tr>
+ <tr>
+    <td>Total alkalinity</td>
+    <td> - </td>
+    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
+</tr>
+ <tr>
+    <td>Total hardness</td>
+    <td> - </td>
+    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
+</tr>
+ <tr>
+    <td>Chloride</td>
+    <td> - </td>
+    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
+</tr>
 </table>
 
 </div>
