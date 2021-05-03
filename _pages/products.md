@@ -12,37 +12,28 @@ Real-time water data. For real-time decision making
 <div class="col-md-4">
 <h4>Drinking Water</h4>
 <img src="https://loremflickr.com/320/240" width="100%"/>
-<p> There are many opportunities for water to get contaminated in its journey from source to point of use. Most contamination is invisible to the naked eye, which is why testing drinking water is crucial to municipalities, community spaces, food processing industry and households.
+<p> Most contamination in drinking water is invisible to the naked eye, which is why testing drinking water is crucial to municipalities, community spaces, food processing industry and households.
 
  
-The Hueristic Devices ProWater testing kit is an app-based, portable, colorimetric test kit that helps you test water any time, anywhere, with immediate, on site, automatically documented test results.</p>
+The ProWater Drinking Water testing kit is an app-based, portable, colorimetric test kit that helps you test water any time, anywhere, with immediate, on site, automatically documented test results.</p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Details</a>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Groundwater</h4>
 <img src="https://loremflickr.com/320/240"  width="100%"/>
-<p> Industry and agriculture often use groundwater. 70% of India’s demand for drinking water is met from groundwater. But groundwater is variable. It can contain natural contaminants, or toxins from industrial seepage, agricultural runoff, and leachate from sanitary landfills.
+<p>The effects of groundwater contamination show up in product inconsitencies, equipment damage and as health symptoms. Testing helps to ensure absence of toxins and pollutants in groundwater.
 
-
-The effects of contamination show up in product inconsitencies, equipment damage and as health symptoms. Testing helps to ensure absence of toxins and pollutants in groundwater.
-
-
-The Hueristic Devices ProWater testing kit gives on site test results, with shareable reports and dashboards. This app-based, portable, colorimetric test kit has been designed for field water testing.</p>
+The ProWater Groundwater testing kit gives on site test results, with shareable reports and dashboards. This app-based, portable, colorimetric test kit has been designed for field water testing.</p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Details</a>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Aquaculture</h4>
 <img src="https://loremflickr.com/320/240"  width="100%"/>
-<p> Aquaculture requires frequent water quality monitoring to provide fish and shrimp the most healthy environment they can grow in. The ProWater  Aquaculture package offers tests for salt water and freshwater ponds, for in situ, on site testing, evaluating and correcting.
-
+<p>The water quality of freshwater sources like lakes, rivers, ponds is a good indicator of the ecosystem services these water bodies can reliably provide: drinking water, fisheries, irrigation, biodiversity.
  
-The ProWater Aquaculture testing kit is app-based, with built-in supervisor and user roles and permissions. Results are immediately shareable to enable immediate  decisions and corrective action.
-
-
-Tests are colorimetric and titration based, in ranges relevant to aquaculture. They require minimal training.
-
+ The ProWater Aquaculture testing kit is app-based, with built-in supervisor and user roles and permissions. Results are immediately shareable to enable immediate  decisions and corrective action.
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Details</a>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
@@ -52,7 +43,7 @@ Tests are colorimetric and titration based, in ranges relevant to aquaculture. T
 <img src="https://loremflickr.com/320/240"  width="100%"/>
 <p> The water quality of freshwater sources like lakes, rivers, ponds is a good indicator of the ecosystem services these water bodies can reliably provide: drinking water, fisheries, irrigation, biodiversity.
 
-The Hueristic Devices ProWater testing kit gives on site test results, with shareable reports and dashboards. This app-based, portable, colorimetric test kit has been designed for field water testing.
+The ProWater Ambient Water testing kit gives on site test results, with shareable reports and dashboards. This app-based, portable, colorimetric test kit has been designed for field water testing.
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Details</a>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
@@ -98,71 +89,6 @@ No chemistry expertise needed.
 <tr>
     <td>Dissolved Oxygen</td>
     <td>0-8ppm</td>
-    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
-</tr>
-    <td>Sulphate</td>
-    <td>0-40ppm</td>
-    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
-</tr>
-    </tr>
-    <td>Arsenic</td>
-    <td>0-0.5ppm</td>
-    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
-</tr>
-</tr>
-    <td>Potassium</td>
-    <td>0-30ppm</td>
-    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
-</tr>
-</tr>
-    <td>Total iron</td>
-    <td>0-2ppm</td>
-    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
-</tr>
-</tr>
-    <td>Residual chlorine</td>
-    <td>0-3ppm</td>
-    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
-</tr>
-</tr>
-    <td>Phosphate</td>
-    <td>0-2ppm</td>
-    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
-</tr>
-</tr>
-    <td>Calcium and magnesium</td>
-    <td> - </td>
-    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
-</tr>
-</tr>
-    <td>Carbonate and bicarbonate</td>
-    <td> - </td>
-    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
-</tr>
-</tr>
-    <td>Total alkalinity</td>
-    <td> - </td>
-    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
-</tr>
-</tr>
-    <td>Total Hardness</td>
-    <td> - </td>
-    <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
-</tr>
-</tr>
-    <td>Chloride</td>
-    <td> - </td>
     <td>Details here <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">More Details</a>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a></td>
 </tr>
