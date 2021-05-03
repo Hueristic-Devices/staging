@@ -16,11 +16,10 @@ The Hueristic Devices philosophy is reflected in its name. A heuristic is a prob
 
 
 
+**The people behind good measures**
 
-<p><span style="font-size:16px"><strong>The people behind &lsquo;good measures&rsquo;</strong></span></p>
+Team Hueristic Devices
 
-<p>Team Hueristic Devices</p>
+Partners ffem, Social Alpha, ICRISAT, UnLtd
 
-<p>Partners ffem, Social Alpha, ICRISAT, UnLtd</p>
-
-<p>Organizations using&nbsp;<em>&lsquo;good measures&rsquo;</em></p>
+Organizations using <em>&lsquo;good measures&rsquo;</em>
