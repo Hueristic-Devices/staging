@@ -5,14 +5,12 @@ title: Hueristic Devices
 
 # App based data collection and management
 
-Hueristic Devices provides app-based solutions for portable, no-lab testing and test data management. Testing is done via app-guided colorimetric and titrimetric tests, and probes.
+<p>Hueristic Devices provides app-based solutions for portable, no-lab testing and test data management. Testing is done via app-guided colorimetric and titrimetric tests, and probes.
  
 Hueristic Devices offers users a dedicated data flow and data management toolkit that makes testing information available to collaborating teams, in real-time with test results. These data flows are customizable and can be tailored to create simple permissions, alerts, maps, generate reports and dashboards, and can be integrated with customer data, storage and security systems.
  
-This is a flexible, customizable plug-and-play information management system for pushing test results and reports to concerned individuals for on-time action on resource quality.
+This is a flexible, customizable plug-and-play information management system for pushing test results and reports to concerned individuals for on-time action on resource quality.</p>
 
-<p>  </p>
-<p>  </p>
 
 <div class="container">
   <div class="row">
