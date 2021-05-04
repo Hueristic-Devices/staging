@@ -16,9 +16,8 @@ This is a flexible, customizable plug-and-play information management system for
   <div class="row">
     <div class="col-sm">
         <img class="d-block w-100" src="{{ site.baseurl }}images/assets/home_image_1.jpg" alt="HD Product">
-      **On the spot test results**
-      <p/b>
-      While most labs take days or weeks to provide results, our kits can provide on-location results within minutes. These results are saved to your profile and are instantly accessible from anywhere in the world. 
+      <strong>On the spot test results</strong>
+      <p>While most labs take days or weeks to provide results, our kits can provide on-location results within minutes. These results are saved to your profile and are instantly accessible from anywhere in the world.</p>
     </div>
     <div class="col-sm">
         <img class="d-block w-100" src="{{ site.baseurl }}images/assets/home_image_2.jpg" alt="HD Product">
