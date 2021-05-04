@@ -57,7 +57,7 @@ This is a flexible, customizable plug-and-play information management system for
     </div>
     <div class="col-sm">
         <img class="d-block w-100" src="{{ site.baseurl }}images/assets/home_image_8.jpg" alt="HD Product">
-     <sttrong>Easy resupply</strong>
+     <strong>Easy resupply</strong>
         <p>Our kit is a one-time purchase to ensure no wastage and lower pricing. We ship reagent top up pan-India. Our customers can mix and match reagent purchases to target their custom requirements. Or just order our pre-packaged bundles covering the most commonly tested parameters for different sources of water. The app can help track reagent shelf life and remind you to reorder.</p>
     </div>
   </div>
