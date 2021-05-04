@@ -77,7 +77,7 @@ This is a flexible, customizable plug-and-play information management system for
         Sometimes acting on time is more important and immediate results with 95% correaltion will do just as well as 99.99% accurate lab results. Our kits come fitted in an outdoorsy, organizer bag made for ergonomic use to test standing up, sitting down, anywhere, any time.
     </div>
     <div class="col-sm">
-        <img class="d-block w-100" src="{{ site.baseurl }}images/assets/home_image_6.jpg" alt="HD Product">
+        <img class="d-block w-100" src="{{ site.baseurl }}images/assets/home_image_2.jpg" alt="HD Product">
       **Price conscious**
       <p/b>
           Sometimes acting on time is more important and immediate results with 95% correaltion will do just as well as 99.99% accurate lab results. Our kits come fitted in an outdoorsy, organizer bag made for ergonomic use to test standing up, sitting down, anywhere, any time.
