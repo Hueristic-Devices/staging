@@ -11,6 +11,8 @@ Hueristic Devices offers users a dedicated data flow and data management toolkit
  
 This is a flexible, customizable plug-and-play information management system for pushing test results and reports to concerned individuals for on-time action on resource quality.
 
+<p>  </p>
+<p>  </p>
 
 <div class="container">
   <div class="row">
