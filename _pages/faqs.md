@@ -54,7 +54,7 @@ We provide resupply options for reagents, kit components, kit components with ph
 #### Do you ship internationally?
 Yes we ship internationally. Shipping charges are borne by the buyer. If the product contains chemicals, rates for hazardous material shipping will apply. We would advise a consignment size that makes long-distance shipping economical.
 
-#### WHat are the incentives/discounts you offer to long time customers/business partners?
+#### What are the incentives/discounts you offer to long time customers/business partners?
 
 Registered customers get updates on season discounts and trial packages. For orders greater than INR 2,00,000/- please write to us directly at customize@hueristic.dev.
 
