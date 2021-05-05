@@ -77,3 +77,11 @@ nav.navbar ul li.last-nav {
 div#announcements h4 {
     padding: 0.5rem;
 }
+
+.home-image {
+    width: 100px;
+    height: 100px;
+    float: left;
+    border-radius: 100%;
+    margin: 0 0.5em 0.5em 0;
+}
