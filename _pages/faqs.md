@@ -36,6 +36,7 @@ permalink: /faqs/
 
 #### Orders and shipment
 
+
 <strong>-Can I only reorder reagents?</strong>
 <p>We provide resupply options for reagents, kit components, kit components with phone as well as the kit bag.</p>
 
@@ -55,6 +56,7 @@ permalink: /faqs/
 
 #### Tips and troubleshooting for HD Pro
 
+
 <strong>-No match?</strong>
 <p>
   If you are getting a ‘No match’ message after doing your test, it means that the color that your sample is presenting is not within the range of the calibration for that parameter. This usually occurs when 
@@ -62,31 +64,51 @@ permalink: /faqs/
   <p><strong>You have started using a new reagent without calibrating your phone first.</strong> Click [here](url) for a tutorial on how to calibrate your device</p>
 </p>
 
-<strong>-</strong>
-<p></p>
-
-<strong>-</strong>
-<p></p>
-
-<strong>-</strong>
-<p></p>
-
-<strong>-</strong>
-<p></p>
-
-<strong>-</strong>
-<p></p>
-
-<strong>-</strong>
-<p></p>
-
-<strong>-</strong>
-<p></p>
+<strong>-Wrong results</strong>
+<p>
+  Wrong results could occur for four different reasons
+<p><strong>Incorrect measurement.</strong> Change in measurements of either water sample, reagents or can show up as wrong results. Make sure you measure accurately before testing.</p>
+<p><strong>Contamination of the water sample.</strong> Make sure you wash your apparatus well with distilled water before and after a test.</p>
+<p><strong>Old version of the app.</strong> Make sure you are working with the latest version of the HD elementary app.<p>
+<p><strong>Expired reagents.</strong> Reagents that are past their expiry date can cause changes in the colour of the sample which can lead to a change in results. Make sure to check the expiry date on the reagent bottle before testing.</p>
+</p>
 
 
-<strong>-</strong>
-<p></p>
+#### Tips and troubleshooting for HD Elementary
 
 
-<strong>-</strong>
-<p></p>
+<strong>-What are the ideal lighting conditions to conduct a HD Elementary test?</strong>
+<p>Ideally, the test should be conducted in an area amply lit with direct sunlight, with the color card stand facing the direction of the sunlight.</p>
+
+<strong>-No match?</strong>
+<p>
+  If you are getting a ‘No match’ message after doing your test, it means that the color that your sample is presenting is not within the range of the calibration for that parameter. This usually occurs when 
+  <p><strong>Your reagent has expired.</strong> Make sure to check the expiry date on the reagent bottle before testing</p>
+  <p><strong>You have started using a new reagent without calibrating your phone first.</strong> Click [here](url) for a tutorial on how to calibrate your device</p>
+  <p><strong>you are not testing in a well lit area.</strong> Make sure to test in an area with ample direct sunlight and place your stand facing the direction of the sunlight</p>
+</p>
+
+<strong>-How to scan the colour card?</strong>
+<p>Click here for a video on how to test using HD Elementary</p>
+
+<strong>-The color card isn't getting read</strong>
+<p>
+  <p>In the default ‘Automatic capture mode’ that the app comes with, the app is trained to read the color card in the optimum conditions of brightness. Try moving to a better lit area or an area with direct sunlight to improve lighting conditions.</p>
+  
+     If the card is still not getting read, go to the menu on the top left hand corner of the homepage and click on Settings >> Turn on ‘Manual photo capture’.
+This allows you to manually take a picture of the colour card instead of waiting for the app to read it automatically
+
+<p> ( NOTE: The readings taken with ‘Manual capture’ could show a slight variation as compared to those taken with ‘Automatic capture’)</p>
+
+</p>
+
+<strong>-Wrong results</strong>
+<p>
+  Wrong results could occur for four different reasons
+<p><strong>Incorrect measurement.</strong> Change in measurements of either water sample, reagents or can show up as wrong results. Make sure you measure accurately before testing.</p>
+<p><strong>Contamination of the water sample.</strong> Make sure you wash your apparatus well with distilled water before and after a test.</p>
+<p><strong>Old version of the app.</strong> Make sure you are working with the latest version of the HD elementary app.<p>
+<p><strong>Expired reagents.</strong> Reagents that are past their expiry date can cause changes in the colour of the sample which can lead to a change in results. Make sure to check the expiry date on the reagent bottle before testing.</p>
+</p>
+
+
