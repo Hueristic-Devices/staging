@@ -51,7 +51,7 @@ The My Account form allows you to register as a user/buyer of Hueristic Devices 
 We provide resupply options for reagents, kit components, kit components with phone as well as the kit bag.
 
 
-#### do you ship internationally?
+#### Do you ship internationally?
 Yes we ship internationally. Shipping charges are borne by the buyer. If the product contains chemicals, rates for hazardous material shipping will apply. We would advise a consignment size that makes long-distance shipping economical.
 
 #### WHat are the incentives/discounts you offer to long time customers/business partners?
