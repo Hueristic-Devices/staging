@@ -16,7 +16,7 @@ permalink: /faqs/
 <p>Ideally it would be preferable to throw away the excess distilled water as there is a chance of contamination.</p>
 
 <strong>- Does the phone come with a charger?</strong>
-<p><answer></p>
+<p>Answer</p>
   
 <strong>- Correlation with lab results</strong>
 <p>Results obtained from our testing kits show 99% correlation with results obtained through standard lab methods</p>
@@ -55,7 +55,6 @@ permalink: /faqs/
 
 
 #### Tips and troubleshooting for HD Pro
-
 
 <strong>-No match?</strong>
 <p>
