@@ -76,7 +76,7 @@ permalink: /faqs/
 #### Tips and troubleshooting for HD Elementary
 
 
-<strong>-What are the ideal lighting conditions to conduct a HD Elementary test?</strong>
+<strong>- What are the ideal lighting conditions to conduct a HD Elementary test?</strong>
 <p>Ideally, the test should be conducted in an area amply lit with direct sunlight, with the color card stand facing the direction of the sunlight.</p>
 
 <strong>-No match?</strong>
