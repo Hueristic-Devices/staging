@@ -49,7 +49,8 @@ The ProWater Ambient Water testing kit gives on site test results, with shareabl
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
 
-### Elementary 
+### Elementary
+
 
 A simple, DIY, app-based test that tells you what you need to know about the quality of your water, soil or compost. As easy as clicking a picture.
 No chemistry expertise needed.
