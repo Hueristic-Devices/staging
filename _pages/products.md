@@ -57,7 +57,7 @@ A simple, DIY, app-based test that tells you what you need to know about the qua
 No chemistry expertise needed.
 <div>
 <h4>Single Parameter tests</h4>
-<img src="https://loremflickr.com/320/240"  width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
 <p>Description here</p>
 <table>
 <tr>
