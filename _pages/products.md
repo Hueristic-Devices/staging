@@ -21,7 +21,7 @@ The ProWater Drinking Water testing kit is an app-based, portable, colorimetric 
 </div>
 <div class="col-md-4">
 <h4>Groundwater</h4>
-<img src="https://loremflickr.com/320/240"  width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
 <p>The effects of groundwater contamination show up in product inconsitencies, equipment damage and as health symptoms. Testing helps to ensure absence of toxins and pollutants in groundwater.
 
 The ProWater Groundwater testing kit gives on site test results, with shareable reports and dashboards. This app-based, portable, colorimetric test kit has been designed for field water testing.</p>
@@ -30,7 +30,7 @@ The ProWater Groundwater testing kit gives on site test results, with shareable 
 </div>
 <div class="col-md-4">
 <h4>Aquaculture</h4>
-<img src="https://loremflickr.com/320/240"  width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
 <p>The water quality of freshwater sources like lakes, rivers, ponds is a good indicator of the ecosystem services these water bodies can reliably provide: drinking water, fisheries, irrigation, biodiversity.
  
  The ProWater Aquaculture testing kit is app-based, with built-in supervisor and user roles and permissions. Results are immediately shareable to enable immediate  decisions and corrective action.
@@ -40,7 +40,7 @@ The ProWater Groundwater testing kit gives on site test results, with shareable 
 </div>
 <div class="col-md-4">
 <h4>Ambient Water</h4>
-<img src="https://loremflickr.com/320/240"  width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
 <p> The water quality of freshwater sources like lakes, rivers, ponds is a good indicator of the ecosystem services these water bodies can reliably provide: drinking water, fisheries, irrigation, biodiversity.
 
 The ProWater Ambient Water testing kit gives on site test results, with shareable reports and dashboards. This app-based, portable, colorimetric test kit has been designed for field water testing.
