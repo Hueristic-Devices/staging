@@ -4,9 +4,7 @@ title: Test data management
 permalink: /data/
 ---
 
-Hueristic Devices provides users a data collection and data management toolkit. Current solutions for testing and testing data management are usually discrete solutions that need to be stitched together. Hueristic Devices offers a dedicated data flow and data management solution that makes testing information available to collaborating teams, in real-time with test results. These data flows are customizable and can be tailored to create simple permissions, alerts, maps, generate reports and dashboards, and can be integrated with customer data, storage and security systems.
-
-This flexible, customizable standalone information management for testing data helps organizations take preemptive action on water resource quality.
+Once you have carried out a test, you need to decide whether you need to act on the information you now have. Hueristic Devices data management solutions make test results available to collaborating teams in real-time. Data can be pushed to users who need to take next step action, using simple forms to create access permissions. The app-based tests helps users take digitized readings, program alerts and recommendations, view data points on maps, generate reports and dashboards. Data visualization helps users interpret and understand data better, faster, helping organizations take preemptive action on resource quality.
 
 <div id="carouselDataIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
