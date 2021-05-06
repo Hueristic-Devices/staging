@@ -11,7 +11,7 @@ Real-time water data. For real-time decision making
 <div class="row">
 <div class="col-md-4">
 <h4>Drinking Water</h4>
-<img src="https://loremflickr.com/320/240" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
 <p> Most contamination in drinking water is invisible to the naked eye, which is why testing drinking water is crucial to municipalities, community spaces, food processing industry and households.
 
  
@@ -49,7 +49,8 @@ The ProWater Ambient Water testing kit gives on site test results, with shareabl
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
 
-### Elementary
+
+<h3>Elementary</h3>
 
 
 A simple, DIY, app-based test that tells you what you need to know about the quality of your water, soil or compost. As easy as clicking a picture.
