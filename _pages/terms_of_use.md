@@ -5,7 +5,7 @@ permalink: /terms_of_use/
 ---
 
 ### <a name="top">1. GENERAL</a>
-Thank you for visiting/accessing our website – [add website] and the mobile application (collectively referred to as “Platform”). The Platform is operated by Hueristic Devices, [add full name and a brief description of main activities with registered office details] (“we”, “our”, “us” which expression shall, unless it be repugnant to the context or meaning thereof, include our successors and assigns). 
+Thank you for visiting/accessing our website – [add website] and the mobile application (collectively referred to as “Platform”). The Platform is operated by Hueristic Devices, a company that provides app-based testing solutions for portable water and soil testing and test data management. Testing solutions offered are chemistry-based colorimetric and titrimetric tests, and probes. With the data flow and data management toolkit you can access testing information in real-time, and share with collaborating teams. Data flows are customizable for access permissions, alerts, maps, reports and dashboards, and can be integrated with user data, storage and security systems. (“we”, “our”, “us” which expression shall, unless it be repugnant to the context or meaning thereof, include our successors and assigns). 
 
 ### 2. TERMS 
 All visitors to and users of our Platform are advised to read and understand these Terms of Use and [Privacy Policy](privacy_policy.md) (collectively called “Terms”) carefully. 
