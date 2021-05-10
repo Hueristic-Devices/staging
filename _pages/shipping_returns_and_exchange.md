@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Shipping, Returns and Exchange
-permalink: /shipping_returns_and_exchange/
+title: Shipping and Returns
+permalink: /shipping_and_returns/
 ---
 
 ### Shipping policy
