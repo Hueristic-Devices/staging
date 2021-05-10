@@ -7,7 +7,7 @@ permalink: /privacy_policy/
 <a name="top">This</a> Privacy Notice explains why Hueristic Devices (**“we”** or **“us”** or **“our”**) collects information about you, how that information may be used, processed, protected and otherwise handled when you use or visit our website or our mobile application (**“Platforms”**) and its services. 
 You acknowledge that this Privacy Notice is a part of the [Terms of Use]({{ site.baseurl }}terms_of_use) and all terms defined in the Terms of Use have the same meaning in this Privacy Notice statement and vice-versa. 
 
-**BEFORE YOUR SUBMIT ANY INFORMATION TO HUERISTIC DEVICES, PLEASE READ THIS PRIVACY NOTICE WHICH IS AN INTEGRAL PART OF THE TERMS OF USE. THIS PRIVACY NOTICE PROVIDES YOU WITH INFORMATION ON HOW HUERISTIC DEVICES WILL PROCESS YOUR PERSONAL INFOMRATION, AND PLEASE PROVIDE YOUR INFORMED CONSENT AS THE SAME IS ESSENTIAL FOR USING THE PLATFORM.**  
+**BEFORE YOUR SUBMIT ANY INFORMATION TO HUERISTIC DEVICES, PLEASE READ THIS PRIVACY NOTICE WHICH IS AN INTEGRAL PART OF THE TERMS OF USE. THIS PRIVACY NOTICE PROVIDES YOU WITH INFORMATION ON HOW HUERISTIC DEVICES WILL PROCESS YOUR PERSONAL INFORMATION, AND PLEASE PROVIDE YOUR INFORMED CONSENT AS THE SAME IS ESSENTIAL FOR USING THE PLATFORM.**  
 
 **PLEASE PROCEED ONLY IF YOU AGREE WITH THE TERMS HEREIN.**
 
@@ -67,7 +67,7 @@ Whenever you use our Service, in a case of an error in the Platforms we collect 
 We collect PD:
  
 * directly from you when you voluntarily provide your PD at the time of registering to use our Platforms, subscribing to our Services via the Platforms, or requesting further services; and
-* indirectly from other sources such as cookies (our cookie policy) [PSA: Please hyperlink the cookie policy section which is provided below], web beacons, website traffic, information available in public domain through internet searches, analytic studies and other information that we may derive while processing PD.
+* indirectly from other sources such as [cookies](#10), web beacons, website traffic, information available in public domain through internet searches, analytic studies and other information that we may derive while processing PD.
 
 [Top](#top)
 
@@ -110,9 +110,7 @@ Additionally, we process PD for the following purposes:
 * periodically review PD collected to adhere with your requests regarding your rights and legal obligations under applicable law
 * maintaining secure personal information management system
 * mitigating and handling data breach scenarios
-* sharing with third parties; more details about third party data transfer *____ [PSA: Hyperlink the section on third party transfer here]
-* honoring your requests and rights 
-
+* sharing with third parties; more details about [third party data transfer](#7)
 **Apart from the above purposes, please note that we do not sell, rent, or trade your PD in any manner.** 
 
 [Top](#top)
