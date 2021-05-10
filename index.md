@@ -3,12 +3,7 @@ layout: default
 title: Hueristic Devices
 ---
 
-Hueristic Devices provides app-based solutions for portable, no-lab testing and test data management. Testing is done via app-guided colorimetric and titrimetric tests, and probes.
- 
-Hueristic Devices offers users a dedicated data flow and data management toolkit that makes testing information available to collaborating teams, in real-time with test results. These data flows are customizable and can be tailored to create simple permissions, alerts, maps, generate reports and dashboards, and can be integrated with customer data, storage and security systems.
- 
-This is a flexible, customizable plug-and-play information management system for pushing test results and reports to concerned individuals for on-time action on resource quality.
-
+Hueristic Devices provides app-based solutions for portable water and soil testing and test data management. Testing solutions offered are chemistry-based colorimetric and titrimetric tests, and probes. With the data flow and data management toolkit you can access testing information in real-time, and share with collaborating teams. Data flows are customizable for access permissions, alerts, maps, reports and dashboards, and can be integrated with user data, storage and security systems.
 
 <div class="container">
   <div class="row">
@@ -32,19 +27,19 @@ This is a flexible, customizable plug-and-play information management system for
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_4.jpg" alt="HD Product">
      <strong>Data visualization</strong>
-        <p>Data is not information. We help you interpret your data. Generate maps and alerts. Follow trends. Flag data points,  interpret patterns, anticipate from historical data, generate reports and dashboards.</p>
+        <p>We help you interpret your data. Generate maps, alerts and advisories. Track resource quality trends. Flag data points, interpret patterns, anticipate from historical data, generate reports and dashboards.</p>
     </div>
   </div>
    <div class="row">
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_5.jpg" alt="HD Product">
      <strong>Robust science</strong>
-        <p>Our tests are based on colorimetric principles using APHA prescribed methods. Test for nitrate, pH, iron, fluoride, free chlorine, arsenic, sulphate, copper, chromium VI, aluminum, zinc, total alkalinity and total hardness in application-relevant ranges.</p>
+        <p>Our tests are based on colorimetric principles using APHA prescribed methods. Look out for new parameters and readers. **Write** to us for custom range tests.</p>
     </div>
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_6.jpg" alt="HD Product">
      <strong>Accuracy</strong>
-        <p>Informed action with the most relevant information in the least possible time. Ask for ProWater products for professional requirements. Ask for the Elementary range for quantitative estimates of high/medium/low values.</p>
+        <p>Our readers have been designed for more accurate digital reading of colour. Ask for ProWater products for high accuracy requirements. Ask for the Elementary range for quantitative estimates of high/medium/low values.</p>
     </div>
   </div>
    <div class="row">
@@ -56,19 +51,19 @@ This is a flexible, customizable plug-and-play information management system for
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_8.jpg" alt="HD Product">
      <strong>Easy resupply</strong>
-        <p>Our kit is a one-time purchase to ensure no wastage and lower pricing. We ship reagent top up pan-India. Our customers can mix and match reagent purchases to target their custom requirements. Or just order our pre-packaged bundles covering the most commonly tested parameters for different sources of water. The app can help track reagent shelf life and remind you to reorder.</p>
+        <p>We ship reagent resupplies pan-India. Our customers can mix and match reagent purchases to target custom requirements. Or just order our pre-packaged bundles covering the most commonly tested parameters for different sources of water.</p>
     </div>
   </div>
    <div class="row">
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_4.jpg" alt="HD Product">
      <strong>A test in time</strong>
-        <p>Sometimes acting on time is more important and immediate results with 95% correaltion will do just as well as 99.99% accurate lab results. Our kits come fitted in an outdoorsy, organizer bag made for ergonomic use to test standing up, sitting down, anywhere, any time.</p>
+        <p>Acting on time is important. Our Pro products show 95%-98% coorelation of results with lab grade equipment. The kits come fitted in a sturdy organizer bag made for ergonomic use, to test anywhere, any time.</p>
     </div>
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_2.jpg" alt="HD Product">
      <strong>Price conscious</strong>
-          <p>Sometimes acting on time is more important and immediate results with 95% correaltion will do just as well as 99.99% accurate lab results. Our kits come fitted in an outdoorsy, organizer bag made for ergonomic use to test standing up, sitting down, anywhere, any time.</p>
+          <p>Our kit is a one-time purchase to ensure no wastage and lower pricing. The basic kit with reader amd measuring equipment can be re-used. It is designed for multi-parameters testing, with only reagent top ups and calibrations as repeat costs to you.</p>
     </div>
   </div>
 </div>
