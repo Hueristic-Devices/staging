@@ -20,6 +20,6 @@ No refund is applicable after one month of purchase. However, if the testing kit
 
 The testing kit can be exchanged with another kit within 15 days of purchase subject to non-functionality of reader/calibrated phone if purchased on the Platform and not otherwise, or if there were damages to the kit at time of arrival of product. Regents can also be exchanged within 15 days of purchase only if there is any leakage at the time of receipt of the reagents. 
 
-_How does exchange work?_ We maintain records of when the testing kit and reagents are dispatched and delivered at our end, which shall form the basis for computing the 15 days exchange timeline. Where you choose to exchange, you will be required to provide us with certain information such as reason for exchange and necessary proof as may be required on the Platform such as screenshots, or photographs that substantiate the grounds for exchange. 
+_How does exchange work?_  We maintain records of when the testing kit and reagents are dispatched and delivered at our end, which shall form the basis for computing the 15 days exchange timeline. Where you choose to exchange, you will be required to provide us with certain information such as reason for exchange and necessary proof as may be required on the Platform such as screenshots, or photographs that substantiate the grounds for exchange. 
 
 We reserve the rights to update the exchange conditions from time to time. Except for the circumstances mentioned herein, testing kit and reagent once purchased cannot be exchanged. 
