@@ -8,7 +8,9 @@ permalink: /terms_of_use/
 Thank you for visiting/accessing our website – [add website] and the mobile application (collectively referred to as “Platform”). The Platform is operated by Hueristic Devices, [add full name and a brief description of main activities with registered office details] (“we”, “our”, “us” which expression shall, unless it be repugnant to the context or meaning thereof, include our successors and assigns). 
 
 ### 2. TERMS 
-All visitors to and users of our Platform are advised to read and understand these Terms of Use and Privacy Policy (collectively called “Terms”) carefully. [PSA: Privacy Policy must be hyperlinked] 
+All visitors to and users of our Platform are advised to read and understand these Terms of Use and [Privacy Policy](privacy_policy.md) (collectively called “Terms”) carefully. 
+
+
 Upon your consent, these Terms constitute a legal and binding electronic contract between Hueristic Devices and you for access, use of the Platform and availing our Offerings (as explained subsequently). They describe the terms on which we offer you access and use of the Platform, provides you goods and services, and such other services as are incidental and ancillary thereto.  
 
 By visiting or using the Platform, including without limitation to (i) access, use, and/or download information, data, text, software or images, or other content from the Platform (collectively the “Content”), (ii) send messages, information, data, text, software or images, or other Content to the Platform, (iii) otherwise use, access or purchase any of the services, or (iv) purchase any of the products and/or services available for sale on the Platform, you agree on your own behalf, and on behalf of any entity on whose behalf you may act, to accept and abide by these Terms for each use of and each visit to the Platform. If you do not want to consent to the Terms, we request you not to use or access the Platform for any purpose.
@@ -75,7 +77,7 @@ We manufacture and sell soil and water testing kits, e-coli kits and provide rel
 
 #### 4.3	Accessing through Social Media? 
 
-You may access the Platform and avail Hueristic Devices Offerings using social media accounts, in which case these Terms along with terms of use and privacy policy of respective social media shall also be applicable to you. Further, we shall not be responsible for any kind of transmission, publication of any of your information on any such social media. 
+You may access the Platform and avail Hueristic Devices Offerings using social media accounts, in which case these terms along with terms of use and privacy policy of respective social media shall also be applicable to you. Further, we shall not be responsible for any kind of transmission, publication of any of your information on any such social media. 
 
 [Top](#top)
 
@@ -112,7 +114,7 @@ No refund is applicable after one month of purchase. However, if the testing ki
 ### <a name="8">8. USER CONDUCT</a>
 
 You agree that:
-* you have reviewed and understood the Terms including the Privacy Policy [PSA: Hyperlink here] and expressly consented to the terms therein; 
+* you have reviewed and understood the Terms including the [Privacy Policy](privacy_policy.md) and expressly consented to the terms therein; 
 
 * you will immediately notify us of any unauthorized use of the Platform by any person using your device or your details or any other breach of security;
 
@@ -149,9 +151,9 @@ You agree that:
 
 [Top](#top)
 
-### <a name="9">9. DATA PROECTION & PRIVACY</a>
+### <a name="9">9. DATA PROTECTION & PRIVACY</a>
 
-Your personal information supplied to us while using the Platform or availing Hueristic Devices Offerings shall be used by us in accordance with our Privacy Policy [PSA: Hyperlink here]. You must review our Privacy Policy which forms an integral part of these Terms before you continue to use or access the Platform.
+Your personal information supplied to us while using the Platform or availing Hueristic Devices Offerings shall be used by us in accordance with our [Privacy Policy](privacy_policy.md). You must review our Privacy Policy which forms an integral part of these Terms before you continue to use or access the Platform.
 
 [Top](#top)
 
