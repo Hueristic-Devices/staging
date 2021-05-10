@@ -38,7 +38,7 @@ You acknowledge that this Privacy Notice is a part of the [Terms of Use]({{ site
 * [Link to other websites](#15)
 * [Contact details](#16) 
 
-### <a name="1">What PD we collect?</a>
+### <a name="1">What PD do we collect?</a>
 
 Platforms are designed to provide you with an overview about Hueristic Devices and its products specifically, details of the water and soil quality testing kits, enables you to place orders and purchase our products, download and use the software for testing, upload findings, review and access testing results, other related services, and enables you to contact us for provision of those services (**“Services”**).  For providing these Services, tracking purchase history and reorder requests, and to provide customer support, subscribing to news and information feeds the Platforms processes your PD. PD collected includes the following categories: 
 
