@@ -156,7 +156,9 @@ Price: ₹5000
 ProWater Copper offers you a rapid, on the spot test that tests for copper  levels in your water, that are accurate to upto 98% of  lab test results. So that you can make informed decisions without  having to wait for a lab.
 
  
-Test range: 0-2ppm 
+Test range: 0-2ppm
+
+
 Price: ₹5000
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
