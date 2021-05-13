@@ -18,6 +18,8 @@ permalink: /custom/
   ProWater Fluoride offers you a rapid, on the spot test that tests for fluoride levels in your water, that are accurate to upto 98% of  lab test results. So that you can make informed decisions without  having to wait for a lab.
 
 Test range: 0-2ppm 
+
+
 Price: ₹5000
 </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
@@ -31,7 +33,10 @@ Price: ₹5000
 ProWater Nitrate offers you a rapid, on the spot test that tests for nitrate levels in your water, that are accurate to upto 98% of  lab test results. So that you can make informed decisions without having to wait for lab results.
 
 
+
 Test range: 0-2ppm 
+
+
 Price: ₹5000</p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
@@ -56,7 +61,11 @@ Price: ₹5000</p>
 
 ProWater Ammonia offers you a rapid, on the spot test that tests for ammonia levels in your water, that are accurate to upto 98% of  lab test results. So that you can make informed decisions without  having to wait for a lab.
 
+
+
 Test range: 0-2ppm 
+
+
 Price: ₹5000
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
@@ -66,7 +75,11 @@ Price: ₹5000
 <img src="{{ site.baseurl }}images/assets/products/pro_ind_do.jpg" width="100%"/>
 <p>ProWater Dssolved Oxygen offers you a rapid, on the spot test that tests for ammonia levels in your water, that are accurate to upto 98% of  lab test results. So that you can make informed decisions without having to wait for a lab.
 
+
+
 Test range: 0-2ppm 
+
+
 Price: ₹5000
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
@@ -78,7 +91,11 @@ Price: ₹5000
 
  
 ProWater Sulphate offers you a rapid, on the spot test that tests for sulphate levels in your water, that are accurate to upto 98% of a lab test results. So that you can make informed decisions without  having to wait for a lab.
-Test range: 0-2ppm 
+
+
+Test range: 0-2ppm
+
+
 Price: ₹5000
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
@@ -88,7 +105,11 @@ Price: ₹5000
 <img src="{{ site.baseurl }}images/assets/products/pro_ind_arsenic.jpg" width="100%"/>
 <p>ProWater Arsenic offers you a rapid, on the spot test that tests for ammonia levels in your water, that are accurate to upto 98% of  lab test results. So that you can make informed decisions without  having to wait for a lab.
 
+
+
 Test range: 0-2ppm 
+
+
 Price: ₹5000
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
@@ -99,7 +120,9 @@ Price: ₹5000
 <p>ProWater Chloride offers you a rapid, on the spot test that tests for ammonia levels in your water, that are accurate to upto 98% of  lab test results. So that you can make informed decisions without  having to wait for a lab.
 
 
-Test range: 0-2ppm 
+Test range: 0-2ppm
+
+
 Price: ₹5000
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
@@ -115,7 +138,10 @@ Testing for phosphate levels becomes important here to maintain phytoplankton bl
 
 ProWater Phosphate offers you a rapid, on the spot test that tests for phosphate levels in your water, that are accurate to upto 98% of  lab test results. So that you can make informed decisions without  having to wait for a lab.
 
+
 Test range: 0-2ppm 
+
+
 Price: ₹5000
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
