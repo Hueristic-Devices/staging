@@ -6,14 +6,23 @@ permalink: /prowater/
 
 
 
-<img src="{{ site.baseurl }}images/assets/products/prowater_branding.jpg" width="100%"/>
+An app-guided colorimetric water testing kit.
+Portable.
+Simple to use.
+Immediate results.
 
+Ideal for in situ and field testing, and for those who do not want to wait for their water test results. Pro Water colorimetric tests show a high correlation with lab results for fluoride, chlorine, iron, nitrate, pH, chromium, arsenic, phosphate, aluminum, hardness (calcium, magnesium), total alkalinity (carbonate, bicarbonates). TDS meters are also available.
 
 Real-time water data. For real-time decision making
 
 
 
+
+<p>
+ 
 ### Pro water packages
+
+</p>
 
 
 <div class="row">
@@ -65,19 +74,25 @@ Price: ₹15,000</p>
 
 The ProWater Ambient Water testing kit gives on site test results, with shareable reports and dashboards. This app-based, portable, colorimetric test kit has been designed for field water testing.
 
+
 Price: ₹20,000
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
 
 
+<p>
+
 ### ProWater resupply kits
+
+</p>
+
 
 
 
 <div class="row">
 <div class="col-md-4">
-<h4>Drinking Water</h4>
+<h4>Drinking Water Resupply Kit</h4>
 <img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
 <p> Product details
 
@@ -112,7 +127,7 @@ Advanced kit: ₹17,500
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
-<h4>Groundwater</h4>
+<h4>Groundwater Resupply Kit</h4>
 <img src="{{ site.baseurl }}images/assets/products/hd_pro_2.jpg" width="100%"/>
 <p>
 This is a resupply kit for your ProWater Groundwater test kit. 
@@ -142,7 +157,7 @@ Price: ₹15,000</p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
-<h4>Aquaculture</h4>
+<h4>Aquaculture Resupply Kit</h4>
 <img src="{{ site.baseurl }}images/assets/products/hd_pro_3.jpg" width="100%"/>
 <p>T
 This is a resupply kit for your ProWater Aquaculture test kit. 
@@ -177,7 +192,7 @@ _Resupply kit only includes calibration standards, reagents and measuring instru
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
-<h4>Ambient Water</h4>
+<h4>Ambient Water Resupply Kit</h4>
 <img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="100%"/>
 <p> 
 This is a resupply kit for your ProWater Ambient Water test kit. 
