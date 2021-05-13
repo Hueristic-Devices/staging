@@ -5,14 +5,15 @@ permalink: /custom/
 ---
 
 
-### Customize your own test kit!
+
+### Customize your own test kit
 
 
 
 <div class="row">
 <div class="col-md-4">
 <h4>Fluoride</h4>
-<img src="{{ site.baseurl }}images/assets/products/pro_ind_fluoride.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/pro_ind_fluoride.jpg" width="50%"/>
 <p> Depending in the concentrations, fluoride can be both beneficial or detrimental to the system it is present in.
   
   ProWater Fluoride offers you a rapid, on the spot test that tests for fluoride levels in your water, that are accurate to upto 98% of  lab test results. So that you can make informed decisions without  having to wait for a lab.
