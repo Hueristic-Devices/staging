@@ -18,11 +18,9 @@ Real-time water data. For real-time decision making
 
 
 
-<p>
  
-### Pro water packages
+<h3>Pro water packages</h3>
 
-</p>
 
 
 <div class="row">
@@ -81,11 +79,10 @@ Price: ₹20,000
 </div>
 
 
-<p>
 
-### ProWater resupply kits
 
-</p>
+<h3>ProWater resupply kits</h3>
+
 
 
 
