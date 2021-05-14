@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: product
 title: Custom
 permalink: /custom/
 ---
