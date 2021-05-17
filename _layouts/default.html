@@ -17,32 +17,14 @@
               {% include nav.html %}
             </div>
             <div class="row article container-fluid">
-                <div class="col-md-8 main-article">
+                <div class="col-md-12 main-article">
                     <article>
                         <h1>{{ page.title }}</h1>
                         {{ content }}
                     </article>
                 </div>
 
-                <div class="col-md-4">
-                    {% include announcements.html %}
-                    <div class="container-fluid">
-                      <h3>Newest Blog posts</h3>
-                      <div>
-                        {% for post in site.posts limit:3%}
-                          <article>
-                            <h5>
-                              <a href="{{ post.url | absolute_url }}">
-                                {{ post.title }}
-                              </a>
-                            </h5>
-                            <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date_to_long_string }}</time>
-                            
-                          </article>
-                        {% endfor %}
-                      </div>
-                    </div>
-                </div>
+                
 
             </div>
             <div id="footer">
