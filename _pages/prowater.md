@@ -1,6 +1,6 @@
 ---
 layout: product
-title: Prowater
+title: ProWater
 permalink: /prowater/
 ---
 
