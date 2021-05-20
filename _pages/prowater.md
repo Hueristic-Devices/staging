@@ -38,7 +38,7 @@ Advanced kit (50 tests) ₹14,000
  
 Advanced kit: ₹16,o00
 </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+<a class="btn btn-primary" href="{{ https://shreyas815.wixsite.com/hueristic/product-page/pro-drinking-water-kit }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Groundwater</h4>
@@ -51,7 +51,7 @@ Price:
  
  100 tests kit: V16,000
  </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+<a class="btn btn-primary" href="{{ https://shreyas815.wixsite.com/hueristic/product-page/pro-groundwater-kit }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Aquaculture</h4>
@@ -70,7 +70,7 @@ Price:
 
  
  </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+<a class="btn btn-primary" href="{{ https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-kit }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Ambient Water</h4>
@@ -83,7 +83,7 @@ Price:
  
  100 tests kit: ₹12,000
  </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+<a class="btn btn-primary" href="{{ https://shreyas815.wixsite.com/hueristic/product-page/pro-ambient-water-kit }}products/drinking_water">Buy now</a>
 </div>
 
 
@@ -114,7 +114,7 @@ Basic kit: ₹15,500
 
 Advanced kit: ₹17,500
 </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+<a class="btn btn-primary" href="{{ https://shreyas815.wixsite.com/hueristic/product-page/pro-drinking-water-resupply-kit }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Groundwater Resupply Kit</h4>
@@ -124,7 +124,7 @@ Advanced kit: ₹17,500
 
 
 Price: ₹15,000</p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+<a class="btn btn-primary" href="{{ https://shreyas815.wixsite.com/hueristic/product-page/pro-groundwater-resupply-kit }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Aquaculture Resupply Kit</h4>
@@ -137,7 +137,7 @@ Price: ₹15,000</p>
  
  Advanced kit: ₹15,000
  </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+<a class="btn btn-primary" href="{{ https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-resupply-ki }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Ambient Water Resupply Kit</h4>
@@ -146,5 +146,5 @@ Price: ₹15,000</p>
 
 Price: ₹20,000
  </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+<a class="btn btn-primary" href="{{ https://shreyas815.wixsite.com/hueristic/product-page/pro-ambient-water-kit }}products/drinking_water">Buy now</a>
 </div>
