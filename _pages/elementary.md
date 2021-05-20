@@ -18,7 +18,7 @@ permalink: /elementary/
 <div class="row">
 <div class="col-md-4">
 <h4>Fluoride</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
  
 Price: ₹14,000
@@ -29,7 +29,7 @@ Price: ₹14,000
 </div>
 <div class="col-md-4">
 <h4>Iron</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_2.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
 
 Price: ₹14,000
@@ -39,16 +39,25 @@ Price: ₹14,000
 </div>
 <div class="col-md-4">
 <h4>Nitrate</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_3.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/elementary_nitrate.jpg" width="100%"/>
 <p>
  Price: ₹13,000
  
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
+ <div class="col-md-4">
+<h4>pH</h4>
+<img src="{{ site.baseurl }}images/assets/products/elementary_ph.jpg" width="100%"/>
+<p> 
+
+Price: ₹12,000
+ </p>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+</div>
 <div class="col-md-4">
 <h4>Phosphate</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/elementary_phosphorous.jpg" width="100%"/>
 <p> 
 
 Price: ₹12,000
@@ -57,7 +66,7 @@ Price: ₹12,000
 </div>
 <div class="col-md-4">
 <h4>Ammonia</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p> 
 
 Price: ₹12,000
@@ -72,7 +81,7 @@ Price: ₹12,000
 <div class="row">
 <div class="col-md-4">
 <h4>Compost kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
  
 Price
