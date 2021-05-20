@@ -66,7 +66,7 @@ Price: ₹12,000
 </div>
 
 
-  <h2>Elementary water packages</h2>
+  <h3>Elementary water packages</h3>
   
   
 <div class="row">
