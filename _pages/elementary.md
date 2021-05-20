@@ -57,7 +57,7 @@ Price: ₹12,000
 </div>
 <div class="col-md-4">
 <h4>Phosphate</h4>
-<img src="{{ site.baseurl }}images/assets/products/elementary_phosphorous.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/elemenntary_phosphorous.jpg" width="100%"/>
 <p> 
 
 Price: ₹12,000
