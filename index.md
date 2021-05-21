@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Hueristic Devices
+title: Measure. Know. Act.
 ---
 
-Hueristic Devices provides app-based solutions for portable water and soil testing and test data management. Testing solutions offered are chemistry-based colorimetric and titrimetric tests, and probes. With the data flow and data management toolkit you can access testing information in real-time, and share with collaborating teams. Data flows are customizable for access permissions, alerts, maps, reports and dashboards, and can be integrated with user data, storage and security systems.
+Digitized testing with real-time results, for real-time decision-making. Hueristic Devices offers a range of app-based, industry-grade, colorimetric smart test kits for testing, sharing data with teams, and taking action on the go. 
+
 
 <div class="container">
   <div class="row">
@@ -15,7 +16,7 @@ Hueristic Devices provides app-based solutions for portable water and soil testi
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_2.jpg" alt="HD Product">
      <strong>Connected software</strong>
-      <p>Organizational processes require reporting, sharing and collaborating between different roles and expertise in the organization. User and supervisor views help share results, collaborate and take timely, preemptive action on resource quality.</p>
+      <p>Organizational processes require reporting, sharing and collaborating between different roles and expertise. Define user and supervisor permissions to take participatory, preemptive action on resource quality.</p>
     </div>
   </div>
   <div class="row">
@@ -27,7 +28,7 @@ Hueristic Devices provides app-based solutions for portable water and soil testi
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_4.jpg" alt="HD Product">
      <strong>Data visualization</strong>
-        <p>We help you interpret your data. Generate maps, alerts and advisories. Track resource quality trends. Flag data points, interpret patterns, anticipate from historical data, generate reports and dashboards.</p>
+        <p>We help you interpret your data, using maps, reports and dashboards. Track quality trends. Flag data points for alerts and advisories. Recognize patterns. Anticipate using historical data.</p>
     </div>
   </div>
    <div class="row">
@@ -39,31 +40,31 @@ Hueristic Devices provides app-based solutions for portable water and soil testi
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_6.jpg" alt="HD Product">
      <strong>Accuracy</strong>
-        <p>Our readers have been designed for more accurate digital reading of colour. Ask for ProWater products for high accuracy requirements. Ask for the Elementary range for quantitative estimates of high/medium/low values.</p>
+        <p>Buy from the Pro range of products for high accuracy qualitative tests. Elementary range recommended for qualititative estimates of high/medium/low values. Tests are as simple as clicking a picture on your smartphone.</p>
     </div>
   </div>
    <div class="row">
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_7.jpg" alt="HD Product">
      <strong>Ease of use</strong>
-        <p>Our kits are designed to be used by anyone. They  don't require special expertise or extensive training. The mobile application guides a new user through the testing procedure. Help is a click or a phone call away, when needed. The dream is to see testing find its place in every household and industry, rural and urban.</p>
+        <p>Our kits are designed to be used by anyone. They  don't require special expertise or extensive training. The mobile app guides a new user through the testing procedure. Help is a click or a phone call away, when needed. The dream is to see testing find its place in every household and industry, rural and urban.</p>
     </div>
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_8.jpg" alt="HD Product">
      <strong>Easy resupply</strong>
-        <p>We ship reagent resupplies pan-India. Our customers can mix and match reagent purchases to target custom requirements. Or just order our pre-packaged bundles covering the most commonly tested parameters for different sources of water.</p>
+        <p>We ship reagent resupplies pan-India. Our customers can mix and match reagent purchases to target custom requirements. Or just order our pre-packaged bundles covering the most commonly tested parameters for different applications.</p>
     </div>
   </div>
    <div class="row">
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_4.jpg" alt="HD Product">
      <strong>A test in time</strong>
-        <p>Acting on time is important. Our Pro products show 95%-98% coorelation of results with lab grade equipment. The kits come fitted in a sturdy organizer bag made for ergonomic use, to test anywhere, any time.</p>
+        <p>We have done everything to help you test and act quickly. On site results. Immediate data flows to decision makers. Sturdy organizer bag for ergonomic use, to test anywhere, any time.</p>
     </div>
     <div class="col-sm">
         <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_2.jpg" alt="HD Product">
      <strong>Price conscious</strong>
-          <p>Our kit is a one-time purchase to ensure no wastage and lower pricing. The basic kit with reader amd measuring equipment can be re-used. It is designed for multi-parameters testing, with only reagent top ups and calibrations as repeat costs to you.</p>
+          <p>Our basic kit is a one-time purchase with reusable reader amd measuring equipment. This ensures no wastage and lower pricing. The basic kitIt is designed for multi-parameters testing, with only reagent top ups and calibrations as recurring costs.</p>
     </div>
   </div>
 </div>
