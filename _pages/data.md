@@ -4,9 +4,12 @@ title: Fast remedial action
 permalink: /data/
 ---
 
-What do you do after you test? 
-Hueristic Devices data management solutions make test results available to collaborating teams in real-time. 
+Hueristic Devices data management solutions make test results available to collaborating teams in real-time.
+
+
 Data is pushed to users who need to take next step actions. 
+
+
 Key benefits to users are automatic digitized readings, eliminating manual entry errors and costs. Program alerts and recommendations for next action. Data points on maps. Reports and dashboards to interpret data better, faster, for preemptive action on resource quality.
 
 <div id="carouselDataIndicators" class="carousel slide" data-ride="carousel">
