@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blog
+title: Useful information to help you Measure. Know. Act. 
 permalink: /blog/
 ---
 
