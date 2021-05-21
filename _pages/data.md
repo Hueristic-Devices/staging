@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Test data management
+title: Fast remedial action
 permalink: /data/
 ---
 
-Once you have carried out a test, you need to decide whether you need to act on the information you now have. Hueristic Devices data management solutions make test results available to collaborating teams in real-time. Data can be pushed to users who need to take next step action, using simple forms to create access permissions. The app-based tests helps users take digitized readings, program alerts and recommendations, view data points on maps, generate reports and dashboards. Data visualization helps users interpret and understand data better, faster, helping organizations take preemptive action on resource quality.
+What do you do after you test? 
+Hueristic Devices data management solutions make test results available to collaborating teams in real-time. 
+Data is pushed to users who need to take next step actions. 
+Key benefits to users are automatic digitized readings, eliminating manual entry errors and costs. Program alerts and recommendations for next action. Data points on maps. Reports and dashboards to interpret data better, faster, for preemptive action on resource quality.
 
 <div id="carouselDataIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
