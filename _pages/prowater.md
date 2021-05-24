@@ -26,59 +26,53 @@ Real-time water data. For real-time decision making
 <div class="row">
 <div class="col-md-4">
 <h4>Drinking Water</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/drink_use.jpg" width="100%"/>
 <p>
  
-Price
-Basic kit (50 tests): c9,500
 
-Basic kit (100 tests): ₹11,00
+Basic kit 100 tests: ₹11,00
  
-Advanced kit (50 tests) ₹14,000
  
-Advanced kit: ₹16,o00
+Advanced kit 100 tests: ₹16,000
+ 
+*50 tests varinats also available
 </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-drinking-water-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Groundwater</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_2.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/ground_use.jpg" width="100%"/>
 <p>
 
-Price:
  
- 50 tests kit: ₹14,000
+ 100 tests kit: ₹16,000
  
- 100 tests kit: V16,000
+*50 tests variant also available
  </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-groundwater-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Aquaculture</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_3.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/aqua_use.jpg" width="100%"/>
 <p>
- Price
- 
- Basic kit (50 tests): ₹11,000
 
- Basic kit (100 tests): ₹13,000
+ Basic kit 100 tests: ₹13,000
 
  
- Advanced kit (50 tests): ₹14,000
 
- Advanced kit (100 tests): ₹15,500
+ Advanced kit 100 tests: ₹15,500
 
- 
+ *50 tests variant also available
  </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Ambient Water</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/ambi use.jpg" width="100%"/>
 <p> 
-
-Price: 
+ <sub>Photo credits: Lennard Kollossa from _Unsplash_</sub>
  
- 50 tests kit: ₹10,500
  
  100 tests kit: ₹12,000
+ 
+ *50 tests variant also available
  </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-ambient-water-kit">Buy now</a></div>
 
