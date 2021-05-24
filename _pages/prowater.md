@@ -29,11 +29,17 @@ Real-time water data. For real-time decision making
 <img src="{{ site.baseurl }}images/assets/products/drink_use.jpg" width="100%"/>
 <p>
  
+ 
+ <sub>Photo credits: [Yogendra Singh](https://unsplash.com/@yogendras31) from [Unsplash](https://unsplash.com/)</sub>
+
+
 
 Basic kit 100 tests: ₹11,00
  
  
 Advanced kit 100 tests: ₹16,000
+ 
+ 
  
 *50 tests varinats also available
 </p>
@@ -42,9 +48,12 @@ Advanced kit 100 tests: ₹16,000
 <h4>Groundwater</h4>
 <img src="{{ site.baseurl }}images/assets/products/ground_use.jpg" width="100%"/>
 <p>
+ <sub>Photo credits: [Slogan Murugan](https://twitter.com/SloganMurugan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)</sub>
 
  
  100 tests kit: ₹16,000
+ 
+ 
  
 *50 tests variant also available
  </p>
@@ -53,24 +62,34 @@ Advanced kit 100 tests: ₹16,000
 <h4>Aquaculture</h4>
 <img src="{{ site.baseurl }}images/assets/products/aqua_use.jpg" width="100%"/>
 <p>
+ <sub>Photo credits: [Hanson Lu](https://unsplash.com/@hansonluu) from [Unsplash](https://unsplash.com/)</sub>
 
+ 
+ 
  Basic kit 100 tests: ₹13,000
 
  
 
  Advanced kit 100 tests: ₹15,500
+ 
+ 
+ 
 
  *50 tests variant also available
  </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Ambient Water</h4>
-<img src="{{ site.baseurl }}images/assets/products/ambi use.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/ambi_use.jpg" width="100%"/>
 <p> 
- <sub>Photo credits: Lennard Kollossa from _Unsplash_</sub>
+ <sub>Photo credits: [Lennard Kollossa](https://unsplash.com/@lennardk)Lennard from [Unsplash](https://unsplash.com/)</sub>
  
  
  100 tests kit: ₹12,000
+ 
+ 
+ 
+ 
  
  *50 tests variant also available
  </p>
