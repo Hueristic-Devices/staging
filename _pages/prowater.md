@@ -30,7 +30,7 @@ Real-time water data. For real-time decision making
 <p>
  
  
- <sub>Photo credits: [Yogendra Singh](https://unsplash.com/@yogendras31) from [Unsplash](https://unsplash.com/)</sub>
+ <sub>Photo credits: Yogendra Singh from Unsplash</sub>
 
 
 
@@ -48,7 +48,7 @@ Advanced kit 100 tests: ₹16,000
 <h4>Groundwater</h4>
 <img src="{{ site.baseurl }}images/assets/products/ground_use.jpg" width="100%"/>
 <p>
- <sub>Photo credits: [Slogan Murugan](https://twitter.com/SloganMurugan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)</sub>
+ <sub>Photo credits: @sloganmurugan on Twitter</sub>
 
  
  100 tests kit: ₹16,000
@@ -62,7 +62,7 @@ Advanced kit 100 tests: ₹16,000
 <h4>Aquaculture</h4>
 <img src="{{ site.baseurl }}images/assets/products/aqua_use.jpg" width="100%"/>
 <p>
- <sub>Photo credits: [Hanson Lu](https://unsplash.com/@hansonluu) from [Unsplash](https://unsplash.com/)</sub>
+ <sub>Photo credits: Hanson Lu from Unsplash</sub>
 
  
  
@@ -82,7 +82,7 @@ Advanced kit 100 tests: ₹16,000
 <h4>Ambient Water</h4>
 <img src="{{ site.baseurl }}images/assets/products/ambi_use.jpg" width="100%"/>
 <p> 
- <sub>Photo credits: [Lennard Kollossa](https://unsplash.com/@lennardk)Lennard from [Unsplash](https://unsplash.com/)</sub>
+ <sub>Photo credits: Lennard Kollossa from Unsplash</sub>
  
  
  100 tests kit: ₹12,000
