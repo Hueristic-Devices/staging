@@ -66,7 +66,9 @@ Advanced kit 100 tests: ₹16,000
 <h4>Aquaculture</h4>
 <img src="{{ site.baseurl }}images/assets/products/aqua_use.jpg" width="100%"/>
 <p>
- <sub>Photo credits: Hanson Lu from Unsplash</sub>
+ 
+ 
+ <sub>Photo credits: @sloganmurugan on Twitter</sub>
 
  
  
@@ -121,6 +123,7 @@ Every time you reorder a new set of reagents, you must recalibrate your smartpho
 <img src="{{ site.baseurl }}images/assets/products/drink_use.jpg" width="100%"/>
 <p> 
 
+ <sub>Photo credits: Yogendra Singh from Unsplash</sub>
 
 
 Basic kit: ₹15,500
@@ -133,6 +136,11 @@ Advanced kit: ₹17,500
 <img src="{{ site.baseurl }}images/assets/products/ground_use.jpg" width="100%"/>
 <p>
 
+ 
+  <sub>Photo credits: @sloganmurugan on Twitter</sub>
+
+ 
+ 
 ₹15,000</p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-groundwater-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
@@ -141,7 +149,13 @@ Advanced kit: ₹17,500
 <p>
 
  
+  <sub>Photo credits: Hanson Lu from Unsplash</sub>
+
+ 
+ 
  Basic kit: ₹12,000
+ 
+ 
  
  Advanced kit: ₹15,000
  </p>
@@ -150,6 +164,12 @@ Advanced kit: ₹17,500
 <h4>Ambient Water Resupply Kit</h4>
 <img src="{{ site.baseurl }}images/assets/products/ambi_use.jpg" width="100%"/>
 <p> 
+
+ 
+ 
+   <sub>Photo credits: Lennard Kollossa from Unsplash</sub>
+ 
+ 
 
 ₹20,000
  </p>
