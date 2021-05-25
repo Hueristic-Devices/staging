@@ -86,7 +86,7 @@ Advanced kit 100 tests: ₹16,000
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Ambient Water</h4>
-<img src="{{ site.baseurl }}images/assets/products/ambi_use2.jpg" width="50%"/>
+<img src="{{ site.baseurl }}images/assets/products/ambi_use2.jpg" width="70%"/>
 <p> 
  <sub>Photo credits: Lennard Kollossa from Unsplash</sub>
  
