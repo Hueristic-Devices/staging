@@ -63,8 +63,7 @@ Price: ₹5000 (tbd)
 <div class="col-md-4">
 <h4>Dissolved Oxygen</h4>
 <img src="{{ site.baseurl }}images/assets/products/pro_ind_do.jpg" width="100%"/>
-<p>ProWater Dssolved Oxygen offers you a rapid, on the spot test that tests for ammonia levels in your water, that are accurate to upto 98% of  lab test results. So that you can make informed decisions without having to wait for a lab.
-
+<p>
 
 
 Test range: 0-8 ppm 
