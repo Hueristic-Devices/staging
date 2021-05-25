@@ -48,8 +48,12 @@ Advanced kit 100 tests: ₹16,000
 <h4>Groundwater</h4>
 <img src="{{ site.baseurl }}images/assets/products/ground_use.jpg" width="100%"/>
 <p>
+ 
+ 
+ 
  <sub>Photo credits: @sloganmurugan on Twitter</sub>
 
+ 
  
  100 tests kit: ₹16,000
  
@@ -85,6 +89,7 @@ Advanced kit 100 tests: ₹16,000
  <sub>Photo credits: Lennard Kollossa from Unsplash</sub>
  
  
+ 
  100 tests kit: ₹12,000
  
  
@@ -113,10 +118,9 @@ Every time you reorder a new set of reagents, you must recalibrate your smartpho
 <div class="row">
 <div class="col-md-4">
 <h4>Drinking Water Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/drink_use.jpg" width="100%"/>
 <p> 
 
-Price
 
 
 Basic kit: ₹15,500
@@ -126,19 +130,16 @@ Advanced kit: ₹17,500
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-drinking-water-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Groundwater Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_2.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/ground_use.jpg" width="100%"/>
 <p>
 
-
-
-Price: ₹15,000</p>
+₹15,000</p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-groundwater-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Aquaculture Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_3.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/aqua_use.jpg" width="100%"/>
 <p>
 
- Price
  
  Basic kit: ₹12,000
  
@@ -147,9 +148,9 @@ Price: ₹15,000</p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Ambient Water Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/ambi_use.jpg" width="100%"/>
 <p> 
 
-Price: ₹20,000
+₹20,000
  </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-ambient-water-resupply-kit">Buy now</a></div>
