@@ -86,7 +86,7 @@ Advanced kit 100 tests: ₹16,000
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Ambient Water</h4>
-<img src="{{ site.baseurl }}images/assets/products/ambi_use2.jpg" width="70%"/>
+<img src="{{ site.baseurl }}images/assets/products/ambi_use2.jpg" width="95%"/>
 <p> 
  
  
@@ -161,7 +161,7 @@ Advanced kit: ₹17,500
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Ambient Water Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/ambi_use2.jpg" width="70%"/>
+<img src="{{ site.baseurl }}images/assets/products/ambi_use2.jpg" width="95%"/>
 <p> 
  
  
