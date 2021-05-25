@@ -41,7 +41,7 @@ Advanced kit 100 tests: ₹16,000
  
  
  
-*50 tests varinats also available
+*50 tests variants also available
 </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-drinking-water-kit">Buy now</a></div>
 <div class="col-md-4">
