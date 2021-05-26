@@ -67,7 +67,7 @@ permalink: /elementary/
 </div>
 
 
-<br><h3>Elementary water packages</h3></br>
+<h3>Elementary water packages</h3>
   
   
 <div class="row">
@@ -78,10 +78,10 @@ permalink: /elementary/
  
 
   
-<br>25 tests kit: ₹14,000 (tbd)</br>
+<br>25 tests kit: ₹14,000 (tbd)
 
 
-<br>50 tests kit: ₹14,000 (tbd)</br>
+<br>50 tests kit: ₹14,000 (tbd)
  
 
 </p>
@@ -95,10 +95,10 @@ permalink: /elementary/
  
 Price
   
-<br>25 tests kit: ₹14,000 (tbd)</br>
+<br>25 tests kit: ₹14,000 (tbd)
 
 
-<br>50 tests kit: ₹14,000 (tbd)</br>
+<br>50 tests kit: ₹14,000 (tbd)
  
 
 </p>
@@ -110,10 +110,10 @@ Price
 <img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
  
-<br>25 tests kit: ₹14,000 (tbd)</br>
+<br>25 tests kit: ₹14,000 (tbd)
 
 
-<br>50 tests kit: ₹14,000 (tbd)</br>
+<br>50 tests kit: ₹14,000 (tbd)
  
 
 </p>
