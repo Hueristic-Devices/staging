@@ -21,7 +21,7 @@ permalink: /elementary/
 <img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
  
-Price: ₹14,000
+Price: ₹14,000 (tbd)
  
 
 </p>
@@ -32,7 +32,7 @@ Price: ₹14,000
 <img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
 
-Price: ₹14,000
+Price: ₹14,000 (tbd)
 
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
@@ -41,7 +41,7 @@ Price: ₹14,000
 <h4>Nitrate</h4>
 <img src="{{ site.baseurl }}images/assets/products/elementary_nitrate.jpg" width="100%"/>
 <p>
- Price: ₹13,000
+ Price: ₹13,000 (tbd)
  
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
@@ -51,7 +51,7 @@ Price: ₹14,000
 <img src="{{ site.baseurl }}images/assets/products/elementary_ph.jpg" width="100%"/>
 <p> 
 
-Price: ₹12,000
+Price: ₹12,000 (tbd)
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
@@ -60,7 +60,7 @@ Price: ₹12,000
 <img src="{{ site.baseurl }}images/assets/products/elemenntary_phosphorous.jpg" width="100%"/>
 <p> 
 
-Price: ₹12,000
+Price: ₹12,000 (tbd)
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
@@ -69,7 +69,7 @@ Price: ₹12,000
 <img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p> 
 
-Price: ₹12,000
+Price: ₹12,000 (tbd)
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
@@ -95,4 +95,37 @@ Price
 </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
+<div class="row">
+<div class="col-md-4">
+<h4>Drinking water kit</h4>
+<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
+<p>
+ 
+Price
+  
+25 tests kit: ₹14,000 (tbd)
 
+
+50 tests kit: ₹14,000 (tbd)
+ 
+
+</p>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+</div>
+<div class="row">
+<div class="col-md-4">
+<h4>Aquaculture kit</h4>
+<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
+<p>
+ 
+Price
+  
+25 tests kit: ₹14,000 (tbd)
+
+
+50 tests kit: ₹14,000 (tbd)
+ 
+
+</p>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+</div>
