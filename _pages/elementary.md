@@ -21,7 +21,7 @@ permalink: /elementary/
 <img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
  
-Price: ₹14,000 (tbd)
+ <br>₹12,000 (tbd)</br>
  
 
 </p>
@@ -32,46 +32,36 @@ Price: ₹14,000 (tbd)
 <img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
 
-Price: ₹14,000 (tbd)
+ <br>₹12,000 (tbd)</br>
 
  </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
-</div>
- </div>
-<div class="col-md-4">
-<h4>Fluoride</h4>
-<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
-<p>
-
-Price: ₹14,000 (tbd)
-
- </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/elementary-water-fluoride">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Iron</h4>
 <img src="{{ site.baseurl }}images/assets/products/elementary_nitrate.jpg" width="100%"/>
 <p>
- Price: ₹13,000 (tbd)
+ <br>₹12,000 (tbd)</br>
  
  </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/elementary-water-iron">Buy now</a>
 </div>
  <div class="col-md-4">
 <h4>pH</h4>
 <img src="{{ site.baseurl }}images/assets/products/elementary_ph.jpg" width="100%"/>
 <p> 
 
-Price: ₹12,000 (tbd)
+<br>₹12,000 (tbd)</br>
  </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/elementary-water-ph">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Phosphate</h4>
 <img src="{{ site.baseurl }}images/assets/products/elemenntary_phosphorous.jpg" width="100%"/>
 <p> 
 
-Price: ₹12,000 (tbd)
+ 
+ <br>₹12,000 (tbd)</br> 
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
@@ -82,37 +72,20 @@ Price: ₹12,000 (tbd)
   
 <div class="row">
 <div class="col-md-4">
-<h4>Compost kit</h4>
+<h4>Drinking Water kit kit</h4>
 <img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
  
-Price
+
   
-25 tests kit: ₹14,000
+<br>25 tests kit: ₹14,000 (tbd)</br>
 
 
-50 tests kit: ₹14,000
+<br>50 tests kit: ₹14,000 (tbd)</br>
  
 
 </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
-</div>
-<div class="row">
-<div class="col-md-4">
-<h4>Drinking water kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
-<p>
- 
-Price
-  
-25 tests kit: ₹14,000 (tbd)
-
-
-50 tests kit: ₹14,000 (tbd)
- 
-
-</p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/elementary-water-drinking-water">Buy now</a>
 </div>
 <div class="row">
 <div class="col-md-4">
@@ -122,10 +95,25 @@ Price
  
 Price
   
-25 tests kit: ₹14,000 (tbd)
+<br>25 tests kit: ₹14,000 (tbd)</br>
 
 
-50 tests kit: ₹14,000 (tbd)
+<br>50 tests kit: ₹14,000 (tbd)</br>
+ 
+
+</p>
+<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/elementary-water-aquaculture">Buy now</a>
+</div>
+<div class="row">
+<div class="col-md-4">
+<h4>Compost kit</h4>
+<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
+<p>
+ 
+<br>25 tests kit: ₹14,000 (tbd)</br>
+
+
+<br>50 tests kit: ₹14,000 (tbd)</br>
  
 
 </p>
