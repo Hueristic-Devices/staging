@@ -17,7 +17,7 @@ permalink: /elementary/
 
 <div class="row">
 <div class="col-md-4">
-<h4>Fluoride</h4>
+<h4>Ammonia</h4>
 <img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
  
@@ -28,7 +28,18 @@ Price: ₹14,000 (tbd)
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
-<h4>Iron</h4>
+<h4>Fluoride</h4>
+<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
+<p>
+
+Price: ₹14,000 (tbd)
+
+ </p>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+</div>
+ </div>
+<div class="col-md-4">
+<h4>Fluoride</h4>
 <img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
 
@@ -38,7 +49,7 @@ Price: ₹14,000 (tbd)
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
 <div class="col-md-4">
-<h4>Nitrate</h4>
+<h4>Iron</h4>
 <img src="{{ site.baseurl }}images/assets/products/elementary_nitrate.jpg" width="100%"/>
 <p>
  Price: ₹13,000 (tbd)
@@ -64,18 +75,9 @@ Price: ₹12,000 (tbd)
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
-<div class="col-md-4">
-<h4>Ammonia</h4>
-<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
-<p> 
-
-Price: ₹12,000 (tbd)
- </p>
-<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
-</div>
 
 
-  <h3>Elementary water packages</h3>
+<br><h3>Elementary water packages</h3></br>
   
   
 <div class="row">
