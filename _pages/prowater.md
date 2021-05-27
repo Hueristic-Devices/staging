@@ -95,11 +95,11 @@ Real-time water data. For real-time decision making
 <br><h3>ProWater resupply kits</h3>
 
 
-<br><br><br><br>This is a resupply kit for your ProWater Drinking Water test kit. 
+<br><br>This is a resupply kit for your ProWater Drinking Water test kit. 
 
  
 
-<br>Every time you reorder a new set of reagents, you must recalibrate your smartphone. To help you do this, the resupply kit packs a set of calibration reagents and set of instructions. Please note, when you recalibrate, you are basically providing your smartphone with a colour-and-contaminant-concentration directory. The results of the ensuing tests will be as accurate as the directory, so please follow calibration instructions faithfully. Wash instruments with distilled water to eliminate contamination; measure exactly to get good calibration results.<br><br>br><br>
+<br>Every time you reorder a new set of reagents, you must recalibrate your smartphone. To help you do this, the resupply kit packs a set of calibration reagents and set of instructions. Please note, when you recalibrate, you are basically providing your smartphone with a colour-and-contaminant-concentration directory. The results of the ensuing tests will be as accurate as the directory, so please follow calibration instructions faithfully. Wash instruments with distilled water to eliminate contamination; measure exactly to get good calibration results.<br><br>
  
  
 
