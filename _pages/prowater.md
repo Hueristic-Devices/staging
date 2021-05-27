@@ -87,7 +87,7 @@ Real-time water data. For real-time decision making
  
 <br>*50 tests variant also available
  </p>
-<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-ambient-water-kit">Buy now</a></div>
+<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-ambient-water-kit">Buy now</a><br><br></div>
 
 
 
