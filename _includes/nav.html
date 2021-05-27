@@ -25,8 +25,14 @@
           <li class="nav-item">
             <a class="nav-link" href="{{ site.baseurl }}resources">Resources</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="{{ site.baseurl }}about">About</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="aboutMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">About</a>
+            <ul class="dropdown-menu dropdown-menu-light" aria-labelledby="aboutMenuLink">
+              <li><a class="dropdown-item" href="{{ site.baseurl }}about">Company</a></li>
+              <li><a class="dropdown-item" href="{{ site.baseurl }}team">Team</a></li>
+              <li><a class="dropdown-item" href="{{ site.baseurl }}partners">Partners</a></li>
+
+            </ul>
           </li>
           <li class="nav-item last-nav">
             <a class="nav-link" href="#">My Account</a>
