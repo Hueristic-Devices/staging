@@ -26,36 +26,31 @@ Real-time water data. For real-time decision making
 <div class="row">
 <div class="col-md-4">
 <h4>Drinking Water</h4>
-<img src="{{ site.baseurl }}images/assets/products/drink_use.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
 <p>
  
  
- <sub>Photo credits: Yogendra Singh from Unsplash</sub>
 
 
-
-Basic kit 100 tests: ₹11,00
+<br>Basic kit 100 tests: ₹11,00
  
  
-Advanced kit 100 tests: ₹16,000
+<br>Advanced kit 100 tests: ₹16,000
  
  
  
-*50 tests variants also available
+<br>*50 tests variants also available
 </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-drinking-water-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Groundwater</h4>
-<img src="{{ site.baseurl }}images/assets/products/ground_use.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_2.jpg" width="100%"/>
 <p>
  
- 
- 
- <sub>Photo credits: @sloganmurugan on Twitter</sub>
 
  
  
- 100 tests kit: ₹16,000
+<br>100 tests kit: ₹16,000
  
  
  
@@ -64,54 +59,47 @@ Advanced kit 100 tests: ₹16,000
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-groundwater-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Aquaculture</h4>
-<img src="{{ site.baseurl }}images/assets/products/aqua_use.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_3.jpg" width="100%"/>
 <p>
  
  
- <sub>Photo credits: @sloganmurugan on Twitter</sub>
-
  
- 
- Basic kit 100 tests: ₹13,000
+ <br>Basic kit 100 tests: ₹13,000
 
  
 
- Advanced kit 100 tests: ₹15,500
+<br>Advanced kit 100 tests: ₹15,500
  
- 
- 
-
- *50 tests variant also available
+ <br>*50 tests variant also available
  </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Ambient Water</h4>
-<img src="{{ site.baseurl }}images/assets/products/ambi_use2.jpg" width="95%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="95%"/>
 <p> 
  
  
- 
- 100 tests kit: ₹12,000
- 
+<br>100 tests kit: ₹12,000
  
  
  
  
- *50 tests variant also available
+ 
+<br>*50 tests variant also available
  </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-ambient-water-kit">Buy now</a></div>
 
 
 
 
-<h3>ProWater resupply kits</h3>
+<br><h3>ProWater resupply kits</h3>
 
 
-This is a resupply kit for your ProWater Drinking Water test kit. 
+<br>This is a resupply kit for your ProWater Drinking Water test kit. 
 
  
 
-Every time you reorder a new set of reagents, you must recalibrate your smartphone. To help you do this, the resupply kit packs a set of calibration reagents and set of instructions. Please note, when you recalibrate, you are basically providing your smartphone with a colour-and-contaminant-concentration directory. The results of the ensuing tests will be as accurate as the directory, so please follow calibration instructions faithfully. Wash instruments with distilled water to eliminate contamination; measure exactly to get good calibration results.
+<br>Every time you reorder a new set of reagents, you must recalibrate your smartphone. To help you do this, the resupply kit packs a set of calibration reagents and set of instructions. Please note, when you recalibrate, you are basically providing your smartphone with a colour-and-contaminant-concentration directory. The results of the ensuing tests will be as accurate as the directory, so please follow calibration instructions faithfully. Wash instruments with distilled water to eliminate contamination; measure exactly to get good calibration results.
  
  
 
@@ -119,53 +107,41 @@ Every time you reorder a new set of reagents, you must recalibrate your smartpho
 <div class="row">
 <div class="col-md-4">
 <h4>Drinking Water Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/drink_use.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
 <p> 
 
- <sub>Photo credits: Yogendra Singh from Unsplash</sub>
+<br>Basic kit: ₹15,500
 
-
-Basic kit: ₹15,500
-
-Advanced kit: ₹17,500
+<br>Advanced kit: ₹17,500
 </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-drinking-water-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Groundwater Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/ground_use.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_2.jpg" width="100%"/>
 <p>
 
- 
-  <sub>Photo credits: @sloganmurugan on Twitter</sub>
-
- 
- 
-₹15,000</p>
+<br>₹15,000
+ </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-groundwater-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Aquaculture Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/aqua_use.jpg" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_3.jpg" width="100%"/>
 <p>
+ 
+ 
+ <br>Basic kit: ₹12,000
+ 
 
- 
-  <sub>Photo credits: Hanson Lu from Unsplash</sub>
-
- 
- 
- Basic kit: ₹12,000
- 
- 
- 
- Advanced kit: ₹15,000
+<br>Advanced kit: ₹15,000
  </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-aquaculture-resupply-kit">Buy now</a></div>
 <div class="col-md-4">
 <h4>Ambient Water Resupply Kit</h4>
-<img src="{{ site.baseurl }}images/assets/products/ambi_use2.jpg" width="95%"/>
+<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="95%"/>
 <p> 
  
  
 
-₹20,000
+<br>₹20,000
  </p>
 <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/pro-ambient-water-resupply-kit">Buy now</a></div>
