@@ -92,10 +92,10 @@ Real-time water data. For real-time decision making
 
 
 
-<br><h3>ProWater resupply kits</h3>
+<br><br><h3>ProWater resupply kits</h3>
 
 
-<br><br>This is a resupply kit for your ProWater Drinking Water test kit. 
+<br>This is a resupply kit for your ProWater Drinking Water test kit. 
 
  
 
