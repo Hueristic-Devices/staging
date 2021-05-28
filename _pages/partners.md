@@ -5,7 +5,8 @@ permalink: /partners/
 ---
 
 
-Partners here
+Social Alpha: Enabling meaningful impact 
+
 
 
 
