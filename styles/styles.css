@@ -4,6 +4,7 @@ Custom styles
 
 body {
     font-family: 'Nunito', sans-serif;
+    font-size: 1.2em;
 }
 
 a:link {
@@ -53,7 +54,30 @@ div#announcements h4 {
 
 nav.navbar {
     border-bottom: 2px solid #000;
+    border-right: 1px solid #000;
+    border-left: 1px solid #000;
     padding-bottom: 0;
+}
+
+a.nav-link {
+    text-transform: uppercase;
+    font-size: 0.8em !important;
+}
+
+a.nav-link:link {
+    color: #000 !important;
+}
+
+a.nav-link:visited {
+    color: #000 !important;
+}
+
+a.nav-link:hover {
+    color: #000 !important;
+}
+
+a.nav-link:active {
+    color: #000 !important;
 }
 
 ul.navbar-nav {
