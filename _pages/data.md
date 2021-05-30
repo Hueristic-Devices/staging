@@ -1,16 +1,13 @@
 ---
 layout: default
-title: Fast remedial action
+title: Understanding data collected
 permalink: /data/
 ---
 
-Portable, no-lab testing carried out with app-guided colorimetric and titrimetric tests, and probes, collect resource quality data. But what happens to this test data after it is collected? Hueristic Devices offers post data collection solutions that make data easy to understand and convey to teams working on next action processes.
+What happens after data is collected? Data that does not reach users on time for preemptive or corrective action, data that cannot be understood, results in under-utilized data. Hueristic Devices converts test numbers into graphs, reports and dashboards, places data points on maps, and generates pre-programmed alerts and recommendations from a user-curated library of advisories. Data flow solutions push test data, as soon as tests are completed, to decision-making teams. 
 
 
-Data flow solutions push test data, as soon as tests are completed, to decision-making teams. Data interpretation is made easier with maps, reports and dashboards for user and manager views. Users can customize test results for alerts, recommendations and critical remedial action.  
-
-
-Data flows are customizable and can be integrated with existing ERPs and security systems. 
+Data flows are customizable as standalone solutions, and can also be integrated with existing ERPs and security systems. 
 
 <div id="carouselDataIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
