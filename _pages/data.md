@@ -4,13 +4,13 @@ title: Fast remedial action
 permalink: /data/
 ---
 
-Hueristic Devices data management solutions make test results available to collaborating teams in real-time.
+Portable, no-lab testing carried out with app-guided colorimetric and titrimetric tests, and probes, collect resource quality data. But what happens to this test data after it is collected? Hueristic Devices offers post data collection solutions that make data easy to understand and convey to teams working on next action processes.
 
 
-Data is pushed to users who need to take next step actions. 
+Data flow solutions push test data, as soon as tests are completed, to decision-making teams. Data interpretation is made easier with maps, reports and dashboards for user and manager views. Users can customize test results for alerts, recommendations and critical remedial action.  
 
 
-Key benefits to users are automatic digitized readings, eliminating manual entry errors and costs. Program alerts and recommendations for next action. Data points on maps. Reports and dashboards to interpret data better, faster, for preemptive action on resource quality.
+Data flows are customizable and can be integrated with existing ERPs and security systems. 
 
 <div id="carouselDataIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
