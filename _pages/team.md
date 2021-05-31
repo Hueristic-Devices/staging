@@ -13,6 +13,9 @@ permalink: /team/
  <br>**Guruprasad**
  
  <br> title and bio
+ <br>  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum diam ut sem ultrices accumsan. In id leo sed libero consectetur gravida in sodales tortor. Fusce vitae tempor est, nec faucibus libero. Phasellus luctus elit id vestibulum tempus. Nullam volutpat feugiat iaculis. Suspendisse potenti. Etiam vitae nisi nec leo facilisis interdum vel ut tellus. Vestibulum tristique aliquam enim non egestas. Curabitur malesuada arcu sit amet semper luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris tincidunt lacus orci, sed auctor mi euismod aliquet. Duis elementum nunc leo, sit amet iaculis dolor consequat non.
+
+Nullam malesuada nisi sed dui vulputate, nec cursus lacus condimentum. Vivamus id erat sit amet odio tempus malesuada. Sed mauris metus, vehicula mattis ullamcorper feugiat, euismod eget enim. Suspendisse convallis turpis leo, at mollis ante efficitur a. Etiam tristique risus in mi imperdiet aliquet. In lobortis, ipsum vitae hendrerit vehicula, quam risus lacinia lacus, quis feugiat metus lorem at lectus. Praesent condimentum sit amet sapien vitae elementum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean nulla quam, dictum eu massa id, tempus venenatis quam. Donec ac erat ut augue interdum fringilla. Donec mauris massa, auctor vel eros in, condimentum rutrum ipsum.
   
  
 
@@ -22,7 +25,9 @@ permalink: /team/
 <br> Krishnamurthy
  
  <br> title and bio
-  
+ <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum diam ut sem ultrices accumsan. In id leo sed libero consectetur gravida in sodales tortor. Fusce vitae tempor est, nec faucibus libero. Phasellus luctus elit id vestibulum tempus. Nullam volutpat feugiat iaculis. Suspendisse potenti. Etiam vitae nisi nec leo facilisis interdum vel ut tellus. Vestibulum tristique aliquam enim non egestas. Curabitur malesuada arcu sit amet semper luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris tincidunt lacus orci, sed auctor mi euismod aliquet. Duis elementum nunc leo, sit amet iaculis dolor consequat non.
+
+
  
 
  <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/meetu.jpg" alt="Meetu Grover Desai">
@@ -30,6 +35,9 @@ permalink: /team/
  <br> Meetu Grover Desai
  
  <br> title and bio
+ <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum diam ut sem ultrices accumsan. In id leo sed libero consectetur gravida in sodales tortor. Fusce vitae tempor est, nec faucibus libero. Phasellus luctus elit id vestibulum tempus. Nullam volutpat feugiat iaculis. Suspendisse potenti. Etiam vitae nisi nec leo facilisis interdum vel ut tellus. Vestibulum tristique aliquam enim non egestas. Curabitur malesuada arcu sit amet semper luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris tincidunt lacus orci, sed auctor mi euismod aliquet. Duis elementum nunc leo, sit amet iaculis dolor consequat non.
+
+
   
  <br><br>
 
@@ -39,6 +47,9 @@ permalink: /team/
 <br> Nagaraj Udupa
  
  <br> title and bio
+ <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum diam ut sem ultrices accumsan. In id leo sed libero consectetur gravida in sodales tortor. Fusce vitae tempor est, nec faucibus libero. Phasellus luctus elit id vestibulum tempus. Nullam volutpat feugiat iaculis. Suspendisse potenti. Etiam vitae nisi nec leo facilisis interdum vel ut tellus. Vestibulum tristique aliquam enim non egestas. Curabitur malesuada arcu sit amet semper luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris tincidunt lacus orci, sed auctor mi euismod aliquet. Duis elementum nunc leo, sit amet iaculis dolor consequat non.
+
+
   
  
 
@@ -82,6 +93,7 @@ Before joining Akvo Foundation, he was involved in the development of household 
 <br> Shreyas S
  
  <br> Cheif Operations Officer (COO)
+ <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum diam ut sem ultrices accumsan. In id leo sed libero consectetur gravida in sodales tortor. Fusce vitae tempor est, nec faucibus libero. Phasellus luctus elit id vestibulum tempus. Nullam volutpat feugiat iaculis. Suspendisse potenti. Etiam vitae nisi nec leo facilisis interdum vel ut tellus. Vestibulum tristique aliquam enim non egestas. Curabitur malesuada arcu sit amet semper luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris tincidunt lacus orci, sed auctor mi euismod aliquet. Duis elementum nunc leo, sit amet iaculis dolor consequat non
   
 
 
@@ -91,6 +103,8 @@ Before joining Akvo Foundation, he was involved in the development of household 
 <br> Srijana Bhandari
  
  <br> title and bio
+ <br> 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum diam ut sem ultrices accumsan. In id leo sed libero consectetur gravida in sodales tortor. Fusce vitae tempor est, nec faucibus libero. Phasellus luctus elit id vestibulum tempus. Nullam volutpat feugiat iaculis. Suspendisse potenti. Etiam vitae nisi nec leo facilisis interdum vel ut tellus. Vestibulum tristique aliquam enim non egestas. Curabitur malesuada arcu sit amet semper luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris tincidunt lacus orci, sed auctor mi euismod aliquet. Duis elementum nunc leo, sit amet iaculis dolor consequat non
   
 
  <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/sushant.jpg" alt="Sushant Bamane">
