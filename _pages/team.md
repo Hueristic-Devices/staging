@@ -6,8 +6,8 @@ permalink: /team/
 
 
 <div class="row">
-<div class="col-md-4">
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/>
+<div class="col-md-4"> 
+<img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_1.jpg" alt="HD Product">
 <p>
  
  <br>**Guruprasad**
@@ -18,8 +18,7 @@ permalink: /team/
  </p>
 </div>
 <div class="col-md-4">
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_2.jpg" width="100%"/>
-<p>
+<img class="d-block home-image" src="{{ site.baseurl }}images/assets/krishnamurthy.jpg" alt="HD Product"><p>
  
 <br>**Krishnamurthy**
  
@@ -29,8 +28,7 @@ permalink: /team/
   </p>
 </div>
 <div class="col-md-4">
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_3.jpg" width="100%"/>
-<p>
+ <img class="d-block home-image" src="{{ site.baseurl }}images/assets/meetu.jpg" alt="HD Product"><p>
  
  <br>**Meetu Grover Desai**
  
@@ -39,8 +37,7 @@ permalink: /team/
  </p>
 </div>
 <div class="col-md-4">
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="95%"/>
-<p> 
+ <img class="d-block home-image" src="{{ site.baseurl }}images/assets/home_image_1.jpg" alt="HD Product"><p> 
  
  
 <br>**Nagaraj Udupa**
@@ -50,8 +47,7 @@ permalink: /team/
  </p>
  </div>
   <div class="col-md-4">
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="95%"/>
-<p> 
+ <img class="d-block home-image" src="{{ site.baseurl }}images/assets/nischal" alt="HD Product"><p> 
  
  
 <br>**Nischal Halery*
@@ -61,8 +57,7 @@ permalink: /team/
  </p>
  </div>
   <div class="col-md-4">
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="95%"/>
-<p> 
+ <img class="d-block home-image" src="{{ site.baseurl }}images/assets/pradeep.jpg" alt="HD Product"><p> 
  
  
 <br>**Pradeep Balkunde**
@@ -72,8 +67,7 @@ permalink: /team/
  </p>
  </div>
   <div class="col-md-4">
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="95%"/>
-<p> 
+ <img class="d-block home-image" src="{{ site.baseurl }}images/assets/sam.jpg" alt="HD Product"><p> 
  
  
 <br>**Samuel Rajkumar**
@@ -83,22 +77,20 @@ permalink: /team/
  </p>
  </div>
 <div class="col-md-4">
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="95%"/>
-<p> 
+ <img class="d-block home-image" src="{{ site.baseurl }}images/assets/shreyas.jpg" alt="HD Product"><p> 
  
  
-<br>**Srijana Bhandari**
+<br>**Shreyas S**
  
  <br> title and bio
   
  </p>
  </div>
 <div class="col-md-4">
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_4.jpg" width="95%"/>
-<p> 
+ <img class="d-block home-image" src="{{ site.baseurl }}images/assets/srijana.jpg" alt="HD Product"><p> 
  
  
-<br>**Shreyas S**
+<br>**Srijana Bhandari**
  
  <br> title and bio
   
