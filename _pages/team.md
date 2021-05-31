@@ -6,7 +6,6 @@ permalink: /team/
 
 
 <div class="row">
-<div class="col-md-6"> 
 <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/guruprasad.jpg" alt="Guruprasad">
 <p>
  
@@ -17,7 +16,6 @@ permalink: /team/
  
  </p>
 </div>
-<div class="col-md-4">
 <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/krishnamurthy.jpg" alt="Krishnamurthy">
  <p>
  
@@ -28,7 +26,6 @@ permalink: /team/
  
   </p>
 </div>
-<div class="col-md-6">
  <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/meetu.jpg" alt="Meetu Grover Desai">
  <p>
  
@@ -39,7 +36,6 @@ permalink: /team/
  </p>
  <br><br>
 </div>
-<div class="col-md-6">
  <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/meetu.jpg" alt="Nagaraj Udupa">
  <p>
  
@@ -49,7 +45,6 @@ permalink: /team/
   
  </p>
  </div>
-  <div class="col-md-6">
  <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/nischal.jpg" alt="Nischal Halery"><p> 
  
  
@@ -60,7 +55,6 @@ permalink: /team/
   
  </p>
  </div>
-  <div class="col-md-6">
  <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/pradeep.jpg" alt="Pradeep Balkunde">
    <p> 
  
@@ -77,7 +71,6 @@ Before joining Akvo Foundation, he was involved in the development of household 
    <br><br>
    
  </div>
-  <div class="col-md-6">
  <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/sam.jpg" alt="Samuel Rajkumar">
    <p> 
      
@@ -89,7 +82,6 @@ Before joining Akvo Foundation, he was involved in the development of household 
   
  </p>
  </div>
-<div class="col-md-6">
  <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/shreyas.jpg" alt="Shreyas S"><p> 
  
  
@@ -99,7 +91,6 @@ Before joining Akvo Foundation, he was involved in the development of household 
   
  </p>
  </div>
-<div class="col-md-6">
  <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/srijana.jpg" alt="Srijana Bhandari"><p> 
  
  
@@ -109,7 +100,6 @@ Before joining Akvo Foundation, he was involved in the development of household 
   
  </p>
  </div>
- <div class="col-md-6">
  <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/sushant.jpg" alt="Sushant Bamane"><p> 
  
  
