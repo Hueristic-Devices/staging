@@ -84,7 +84,7 @@ Before joining Akvo Foundation, he was involved in the development of household 
  
 <br> <strong>Samuel Rajkumar</strong>
  
- <br> Cheif Executive Officer (COE)
+ <br> Cheif Executive Officer (CEO)
     <br> Sam has worked as a software developer for 18 years before cofounding Ternup Research Labs in 2012. It was here that the product that was later known as Caddisfly was first developed. Since 2012, he has worked with this product in several capacities. In 2014, he joined Akvo along with the rest of the Caddisfly team. From 2017 to the present his primary role is the business devleopment for ffem. His interests include reading hard science fiction, making indifferent music and amateur woodworking.
   
  <br><br>
