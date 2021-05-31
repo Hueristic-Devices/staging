@@ -110,7 +110,7 @@ Before joining Akvo Foundation, he was involved in the development of household 
  </p>
  </div>
  <div class="col-md-4">
- <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/srijana.jpg" alt="Sushant Bamane"><p> 
+ <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/sushant.jpg" alt="Sushant Bamane"><p> 
  
  
 <br> Sushant Bamane
