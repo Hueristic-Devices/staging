@@ -34,7 +34,7 @@ Nullam malesuada nisi sed dui vulputate, nec cursus lacus condimentum. Vivamus i
  
  <br> <strong>Meetu Grover Desai</strong>
  
- <br> title and bio
+ title and bio
  <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque bibendum diam ut sem ultrices accumsan. In id leo sed libero consectetur gravida in sodales tortor. Fusce vitae tempor est, nec faucibus libero. Phasellus luctus elit id vestibulum tempus. Nullam volutpat feugiat iaculis. Suspendisse potenti. Etiam vitae nisi nec leo facilisis interdum vel ut tellus. Vestibulum tristique aliquam enim non egestas. Curabitur malesuada arcu sit amet semper luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris tincidunt lacus orci, sed auctor mi euismod aliquet. Duis elementum nunc leo, sit amet iaculis dolor consequat non.
 
 
