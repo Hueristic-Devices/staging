@@ -7,7 +7,7 @@ permalink: /team/
 
 
 
-<img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/guruprasad.jpg" alt="Guruprasad">
+<img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/guruprasad.jpg" alt="Guruprasad">
 
  
  <br>**Guruprasad**
@@ -17,7 +17,7 @@ permalink: /team/
  
 
 
-<img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/krishnamurthy.jpg" alt="Krishnamurthy">
+<img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/krishnamurthy.jpg" alt="Krishnamurthy">
  
 <br> Krishnamurthy
  
@@ -25,7 +25,7 @@ permalink: /team/
   
  
 
- <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/meetu.jpg" alt="Meetu Grover Desai">
+ <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/meetu.jpg" alt="Meetu Grover Desai">
  
  <br> Meetu Grover Desai
  
@@ -33,7 +33,7 @@ permalink: /team/
   
  <br><br>
 
- <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/meetu.jpg" alt="Nagaraj Udupa">
+ <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/meetu.jpg" alt="Nagaraj Udupa">
  
  
 <br> Nagaraj Udupa
@@ -42,7 +42,7 @@ permalink: /team/
   
  
 
- <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/nischal.jpg" alt="Nischal Halery"> 
+ <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/nischal.jpg" alt="Nischal Halery"> 
  
  
 <br> Nischal Halery
@@ -52,7 +52,7 @@ permalink: /team/
   
  
 
- <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/pradeep.jpg" alt="Pradeep Balkunde">
+ <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/pradeep.jpg" alt="Pradeep Balkunde">
   
  
  
@@ -67,7 +67,7 @@ Before joining Akvo Foundation, he was involved in the development of household 
    <br><br>
    
 
- <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/sam.jpg" alt="Samuel Rajkumar">
+ <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/sam.jpg" alt="Samuel Rajkumar">
      
  
 <br> Samuel Rajkumar
@@ -76,7 +76,7 @@ Before joining Akvo Foundation, he was involved in the development of household 
     <br> Sam has worked as a software developer for 18 years before cofounding Ternup Research Labs in 2012. It was here that the product that was later known as Caddisfly was first developed. Since 2012, he has worked with this product in several capacities. In 2014, he joined Akvo along with the rest of the Caddisfly team. From 2017 to the present his primary role is the business devleopment for ffem. His interests include reading hard science fiction, making indifferent music and amateur woodworking.
   
 
- <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/shreyas.jpg" alt="Shreyas S"> 
+ <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/shreyas.jpg" alt="Shreyas S"> 
  
  
 <br> Shreyas S
@@ -85,7 +85,7 @@ Before joining Akvo Foundation, he was involved in the development of household 
   
 
 
- <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/srijana.jpg" alt="Srijana Bhandari"> 
+ <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/srijana.jpg" alt="Srijana Bhandari"> 
  
  
 <br> Srijana Bhandari
@@ -93,7 +93,7 @@ Before joining Akvo Foundation, he was involved in the development of household 
  <br> title and bio
   
 
- <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/sushant.jpg" alt="Sushant Bamane">
+ <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/sushant.jpg" alt="Sushant Bamane">
  
  
 <br> Sushant Bamane
