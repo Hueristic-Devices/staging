@@ -41,7 +41,7 @@ Nullam malesuada nisi sed dui vulputate, nec cursus lacus condimentum. Vivamus i
   
  <br><br>
 
- <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/meetu.jpg" alt="Nagaraj Udupa">
+ <img class="d-block team-image" src="{{ site.baseurl }}images/assets/team/nagaraj.jpg" alt="Nagaraj Udupa">
  
  
 <br> <strong>Nagaraj Udupa</strong>
