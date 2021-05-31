@@ -25,7 +25,6 @@ permalink: /company/
 
 <br><br>
 
-<h4>Drinking Water</h4>
 <img src="{{ site.baseurl }}images/assets/logo1.png" width="100%"/>
 
 <br> Meet the Hueristic Devices mascot, who stands for colour change in many culture around the world. Hueristic Devices makes ‘good measures’ possible.
