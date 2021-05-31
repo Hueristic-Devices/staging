@@ -118,3 +118,11 @@ div#announcements h4 {
     border-radius: 100%;
     margin: 0 0.5em 0.5em 0;
 }
+.team-image {
+    width: 200px;
+    height: 200px;
+    float: left;
+    border-radius: 100%;
+    margin: 0 0.5em 0.5em 0;
+}
+
