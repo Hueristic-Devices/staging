@@ -7,7 +7,7 @@ permalink: /team/
 
 <div class="row">
 <div class="col-md-4"> 
-<img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/guruprasad.jpg" alt="Guruprasad">
+<img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/guruprasad.jpeg" alt="Guruprasad">
 <p>
  
  <br>**Guruprasad**
@@ -69,12 +69,14 @@ permalink: /team/
  <br> title and bio
   
  </p>
+   
+   <br><br>
+   
  </div>
   <div class="col-md-4">
  <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/sam.jpg" alt="Samuel Rajkumar">
    <p> 
-    
- <br><br>
+     
  
 <br> Samuel Rajkumar
  
