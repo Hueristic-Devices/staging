@@ -37,7 +37,7 @@ permalink: /team/
  </p>
 </div>
 <div class="col-md-4">
-<img src="{{ site.baseurl }}images/assets/products/hd_pro_1.jpg" width="100%"/> 
+<img src="{{ site.baseurl }}images/assets/products/team/krishnamurthy.jpg" width="100%"/> 
  
 <br>**Nagaraj Udupa**
  
@@ -46,7 +46,7 @@ permalink: /team/
  </p>
  </div>
   <div class="col-md-4">
- <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/nischal" alt="HD Product"><p> 
+ <img class="d-block home-image" src="{{ site.baseurl }}images/assets/team/nischal.jpg" alt="HD Product"><p> 
  
  
 <br>**Nischal Halery*
