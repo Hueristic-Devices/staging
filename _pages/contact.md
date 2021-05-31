@@ -12,4 +12,6 @@ Hueristic Devices shares an operations office with Foundation for Environmental 
 
 Phone: +91 80 4814 4892         
 
-Email: [info@hueristic.dev](url)
+Email: [info@hueristic.dev](mailto:info@hueristic.dev)
+
+
