@@ -14,7 +14,7 @@ permalink: /elementary/
 <h3>Individual parameter tests</h3>
 <div class="row">
 <div class="col-md-4">
-<h4>Ammonia</h4>
+<h4>Fluoride</h4>
 <img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
 <p>
  
@@ -23,16 +23,6 @@ permalink: /elementary/
 
 </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
-</div>
-<div class="col-md-4">
-<h4>Fluoride</h4>
-<img src="{{ site.baseurl }}images/assets/products/elementary_group.jpg" width="100%"/>
-<p>
-
- <br>₹12,000 (tbd)
-
- </p>
-<a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/product-page/elementary-water-fluoride">Buy now</a>
 </div>
 <div class="col-md-4">
 <h4>Iron</h4>
@@ -69,5 +59,13 @@ permalink: /elementary/
  </p>
 <a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
 </div>
-
+<div class="col-md-4">
+<h4>Potassium</h4>
+<img src="{{ site.baseurl }}images/assets/products/elemenntary_phosphorous.jpg" width="100%"/>
+<p>
+ 
+ <br>₹12,000 (tbd)
+ </p>
+<a class="btn btn-primary" href="{{ site.baseurl }}products/drinking_water">Buy now</a>
+</div>
 
