@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Measure. Know. Act.
+title: 
 ---
 
 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
@@ -11,7 +11,7 @@ title: Measure. Know. Act.
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="" class="d-block w-100" alt="...">
+      <img src="..." class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
       <img src="..." class="d-block w-100" alt="...">
@@ -29,10 +29,3 @@ title: Measure. Know. Act.
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-
-<br>
-
-<br>Featured Products 
-
-
-
