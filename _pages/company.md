@@ -1,11 +1,8 @@
 ---
 layout: default
-title: Company
+title: Good measures for good environmental housekeeping.
 permalink: /company/
 ---
-
-
-<br>Good measures for good environmental housekeeping.
 
  
 
