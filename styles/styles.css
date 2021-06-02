@@ -139,14 +139,14 @@ div#announcements h4 {
 }
 
 .card2:hover {
-    background-image: url(../images/assets/home_image_1.jpg);
+    background-image: url(../images/assets/card2.png);
 }
 .card3 {
     background-color: ##EECDAC;
 }
 
 .card3:hover {
-    background-image: url(../images/assets/home_image_1.jpg);
+    background-image: url(../images/assets/card3.png);
 }
 
 
