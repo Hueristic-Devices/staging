@@ -135,14 +135,14 @@ div#announcements h4 {
 }
 
 .card2 {
-    background-color: ##B7DA9B;
+    background-color: #B7DA9B;
 }
 
 .card2:hover {
     background-image: url(../images/assets/card2.png);
 }
 .card3 {
-    background-color: ##EECDAC;
+    background-color: #EECDAC;
 }
 
 .card3:hover {
