@@ -127,6 +127,5 @@ title:
 
 
 
-    <img src="{{ site.baseurl }}images/assets/home_slider_1.png" class="d-block w-100" alt="HD Product">
 
 
