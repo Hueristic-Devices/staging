@@ -9,22 +9,15 @@ permalink: /company/
 
  
 
-<br>Hueristic Devices makes environmental testing kits that are easy to use, so that more organizations and individuals test soil, wastewater, drinking water, groundwater, surface water, process water and take necessary remedial action. Hueristic Devices' vision is to make measuring simple and accessible so as to enable timely, appropriate action on processes that impact environment, health and livelihoods. 
+<br>Hueristic Devices makes environmental testing kits that are easy to use, so that more organizations and individuals test soil, wastewater, drinking water, groundwater, surface water, process water and take necessary remedial action. 
+
+Hueristic Devices' vision is to make measuring simple and accessible so as to enable timely, appropriate action on processes that impact environment, health and livelihoods. 
 
 <br>
 
-<div id="carouselaboutDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
-  <div class="carousel-indicators">
-    <button type="button" data-bs-target="#carouselaboutDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-    <button type="button" data-bs-target="#carouselaboutDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
-    <button type="button" data-bs-target="#carouselaboutDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    <button type="button" data-bs-target="#carouselaboutDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
-    <button type="button" data-bs-target="#carouselaboutDark" data-bs-slide-to="4" aria-label="Slide 5"></button>
-    <button type="button" data-bs-target="#carouselaboutDark" data-bs-slide-to="5" aria-label="Slide 6"></button>
-
-  </div>
+<div id="carouselaboutdark" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
-    <div class="carousel-item active" data-bs-interval="10000">
+    <div class="carousel-item active">
           <img src="{{ site.baseurl }}images/assets/about_slider_1.png" class="d-block w-100" alt="HD Product">
       <div class="carousel-caption d-none d-md-block">
       </div>
@@ -55,11 +48,11 @@ permalink: /company/
       </div>
     </div>
   </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselaboutDark" data-bs-slide="prev">
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselaboutdark" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselaboutDark" data-bs-slide="next">
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselaboutdark" data-bs-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
