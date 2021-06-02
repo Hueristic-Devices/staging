@@ -126,3 +126,11 @@ div#announcements h4 {
     margin: 0 0.5em 0.5em 0;
 }
 
+.card1 {
+    background-color: #306E1F;
+}
+
+.card1:hover {
+    background-image: url(../images/assets/home_image_1.jpg);
+}
+

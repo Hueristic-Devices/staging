@@ -38,7 +38,7 @@ title:
 
 <div class="row">
   <div class="col-md-4">
-    <div class="card text-center" style="width: 18rem;">
+    <div class="card text-center card1">
       <div class="card-body">
         <h5 class="card-title">ProWater</h5>
         <p class="card-text">TESTING KITS</p>
@@ -47,7 +47,7 @@ title:
     </div>
   </div>
   <div class="col-md-4">
-    <div class="card text-center" style="width: 18rem;">
+    <div class="card text-center">
       <div class="card-body">
         <h5 class="card-title">Elementary</h5>
         <p class="card-text">TESTING KITS</p>
@@ -56,7 +56,7 @@ title:
     </div>
   </div>
   <div class="col-md-4">
-    <div class="card text-center" style="width: 18rem;">
+    <div class="card text-center">
       <div class="card-body">
         <h5 class="card-title">Accessories</h5>
         <p class="card-text"></p>
