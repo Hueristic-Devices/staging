@@ -42,7 +42,7 @@ title:
       <div class="card-body">
         <h5 class="card-title"><strong>ProWater</strong></h5>
         <p class="card-text">TESTING KITS</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/prowater-testing-products">Explore</a>
       </div>
     </div>
   </div>
@@ -51,7 +51,7 @@ title:
       <div class="card-body">
         <h5 class="card-title">Elementary</h5>
         <p class="card-text">TESTING KITS</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/copy-of-prosoil">Explore</a>
       </div>
     </div>
   </div>
@@ -60,7 +60,7 @@ title:
       <div class="card-body">
         <h5 class="card-title">Accessories</h5>
         <p class="card-text">_</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/copy-of-elementary">Explore</a>
       </div>
     </div>
   </div>
