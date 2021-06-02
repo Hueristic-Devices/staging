@@ -116,7 +116,8 @@ title:
       <img src="{{ site.baseurl }}images/assets/index_slider_9.png" class="d-block w-100" alt="HD Product">
     </div>
   </div>
- <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Previous</span>
   </button>
@@ -125,7 +126,6 @@ title:
     <span class="visually-hidden">Next</span>
   </button>
 </div>
-
 
 
 
