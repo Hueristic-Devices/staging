@@ -59,7 +59,7 @@ title:
     <div class="card text-center card3">
       <div class="card-body">
         <h5 class="card-title">Accessories</h5>
-        <p class="card-text">__</p>
+        <p class="card-text">_</p>
         <a href="#" class="btn btn-primary">Go somewhere</a>
       </div>
     </div>
