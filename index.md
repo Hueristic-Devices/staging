@@ -11,13 +11,13 @@ title:
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}images/assets/home_slider_1.png" class="d-block w-100" alt="HD Product">
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}images/assets/home_slider_2.png" class="d-block w-100" alt="HD Product">
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}images/assets/home_slider_3.png" class="d-block w-100" alt="HD Product">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
