@@ -32,9 +32,9 @@ title:
 
 <br><br>
 
-### Featured <br>products  
+### Featured <br>    products  
 
-<br><br>
+<br>
 
 <div class="row">
   <div class="col-md-4">
