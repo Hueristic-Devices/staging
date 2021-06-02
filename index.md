@@ -40,7 +40,7 @@ title:
   <div class="col-md-4">
     <div class="card text-center card1">
       <div class="card-body">
-        <h5 class="card-title">ProWater</h5>
+        <h5 class="card-title"><strong>ProWater</strong></h5>
         <p class="card-text">TESTING KITS</p>
         <a href="#" class="btn btn-primary">Go somewhere</a>
       </div>
