@@ -68,7 +68,7 @@ Hueristic Devices' vision is to make measuring simple and accessible so as to en
 
 <br>
 
-<img src="{{ site.baseurl }}images/assets/logo1.png" width="100%"/>
+<img src="{{ site.baseurl }}images/assets/logo1.png" width="50%"/>
 
 <br> Meet the Hueristic Devices mascot, who stands for colour change in many culture around the world. Hueristic Devices makes ‘good measures’ possible.
   
