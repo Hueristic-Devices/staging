@@ -55,7 +55,7 @@ title:
   <div class="col-md-4">
     <div class="card text-center card2">
       <div class="card-body">
-        <h5 class="card-title"><strong>Elementary</strong></h5>
+        <h5 class="card-title"><strong>Elementary Water</strong></h5>
         <p class="card-text">TESTING KITS</p>
         <a class="btn btn-primary" href="https://shreyas815.wixsite.com/hueristic/copy-of-prosoil">Explore</a>
       </div>
