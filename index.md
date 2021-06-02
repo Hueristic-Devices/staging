@@ -47,7 +47,7 @@ title:
     </div>
   </div>
   <div class="col-md-4">
-    <div class="card text-center">
+    <div class="card text-center card2>
       <div class="card-body">
         <h5 class="card-title">Elementary</h5>
         <p class="card-text">TESTING KITS</p>
@@ -56,7 +56,7 @@ title:
     </div>
   </div>
   <div class="col-md-4">
-    <div class="card text-center">
+    <div class="card text-center card3">
       <div class="card-body">
         <h5 class="card-title">Accessories</h5>
         <p class="card-text"></p>
