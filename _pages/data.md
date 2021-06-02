@@ -4,10 +4,8 @@ title: Making test data work harder
 permalink: /data/
 ---
 
-What happens after data is collected? Data that does not reach users on time for preemptive or corrective action, is under-utilized data. Data that cannot be understood, results in false insights and inaction where action is needed. Every test generates a data point. Data points can be expensive and therefore need to be used efficiently. Hueristic Devices helps customers derive value from every test data point. Data flow solutions push test data, as soon as tests are completed on site, in situ or on field, to decision-making teams, wherever they are located. The data platform converts test numbers into graphs, reports and dashboards, places data points on maps, and generates pre-programmed alerts and recommendations for users registered with Hueristic Devices. 
+What happens after data is collected? Data that does not reach users on time for preemptive or corrective action, is under-utilized data. Data that cannot be understood, results in false insights and inaction where action is needed. Every test generates a data point. Data points can be expensive and therefore need to be used efficiently. 
 
-
-Data flows are customizable as standalone solutions, and can also be integrated with existing ERPs and security systems. 
 
 <div id="carouselDataIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -32,3 +30,10 @@ Data flows are customizable as standalone solutions, and can also be integrated 
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+<br>  
+
+Hueristic Devices helps customers derive value from every test data point. Data flow solutions push test data, as soon as tests are completed on site, in situ or on field, to decision-making teams, wherever they are located. The data platform converts test numbers into graphs, reports and dashboards, places data points on maps, and generates pre-programmed alerts and recommendations for users registered with Hueristic Devices. 
+
+
+Data flows are customizable as standalone solutions, and can also be integrated with existing ERPs and security systems. 
