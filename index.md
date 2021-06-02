@@ -29,3 +29,5 @@ title:
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+
+<br> Featured kits
