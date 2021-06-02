@@ -127,10 +127,26 @@ div#announcements h4 {
 }
 
 .card1 {
-    background-color: #306E1F;
+    background-color: #37B9DE;
 }
 
 .card1:hover {
     background-image: url(../images/assets/home_image_1.jpg);
 }
+
+.card2 {
+    background-color: ##B7DA9B;
+}
+
+.card2:hover {
+    background-image: url(../images/assets/home_image_1.jpg);
+}
+.card3 {
+    background-color: ##EECDAC;
+}
+
+.card3:hover {
+    background-image: url(../images/assets/home_image_1.jpg);
+}
+
 
