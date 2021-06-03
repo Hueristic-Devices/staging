@@ -25,8 +25,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 
 # Production
-baseurl: "/staging/" 
-url: "http://hueristicdevices.com"
+baseurl: "/" 
+url: "http://staging.hueristicdevices.com"
 
 # Dev
 # baseurl: "/" 
