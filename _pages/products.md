@@ -13,12 +13,11 @@ permalink: /products/
 
 
 
-An app-guided colorimetric water testing kit.
-Portable.
-Simple to use.
-Immediate results.
+ProWater is an app-based colorimetric water testing kit. 
+95-98% correlation with lab standards. Portable. Easy to use. Immediate results. Ranges as per source water requirement. Write or call for custom packages and ranges.
 
-Ideal for in situ and field testing, and for those who do not want to wait for their water test results. Pro Water colorimetric tests show a high correlation with lab results for fluoride, chlorine, iron, nitrate, pH, chromium, arsenic, phosphate, aluminum, hardness (calcium, magnesium), total alkalinity (carbonate, bicarbonates). TDS meters are also available.
+Ideal for in situ and field testing. No waiting for lab tests. 
+Tests for aluminum, arsenic, calcium, chromium, chlorine, fluoride, iron, magnesium, nitrate, pH, phosphate, hardness (calcium, magnesium), total alkalinity (carbonate, bicarbonates). TDS meters are also available.
 
 
 <a class="btn btn-primary" href="{{ site.baseurl }}prowater">Details</a>
